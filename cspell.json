@@ -1,0 +1,18 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "files": ["**/*.{md,txt,dart}"],
+  "dictionaries": ["dart", "flutter"],
+  "dictionaryDefinitions": [
+    {
+      "name": "dart",
+      "path": "./dict/dart-cspell.txt",
+      "description": "Dart dictionary for cspell."
+    },
+    {
+      "name": "flutter",
+      "path": "./dict/flutter-cspell.txt",
+      "description": "Flutter dictionary for cspell."
+    }
+  ]
+}
