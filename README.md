@@ -7,3 +7,5 @@ Information is updated daily.
   - cspell dictionary for dart.
 - _flutter-cspell.txt_
   - cspell dictionary for flutter.
+- _pubdev-cspell.txt_
+  - cspell dictionary for pub.dev packages.
