@@ -39,13 +39,13 @@ jobs:
       - name: Check flutter
         run: |
           dart run dart_cspell_cli "temp/flutter/{flutter,packages}/packages/*/lib/**.dart" -o temp-output1.txt
-          npx cspell --no-color temp-output1.txt > temp-output2.txt
+          npx cspell --no-color --no-exit-code temp-output1.txt > temp-output2.txt
           grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/flutter-cspell.txt
 
       - name: Check dart
         run: |
           dart run dart_cspell_cli "temp/dart-lang/sdk/{sdk/lib,pkg/*/lib}/**.dart" -o temp-output1.txt
-          npx cspell --no-color temp-output1.txt > temp-output2.txt
+          npx cspell --no-color --no-exit-code temp-output1.txt > temp-output2.txt
           grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/dart-cspell.txt
 
       - name: Commit
