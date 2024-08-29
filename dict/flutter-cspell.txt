@@ -300,6 +300,7 @@ ostest
 osversion
 osworkflow
 osxcframework
+otool
 ouline
 outbond
 overscan
