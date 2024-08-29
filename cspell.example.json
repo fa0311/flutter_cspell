@@ -2,7 +2,7 @@
   "version": "0.2",
   "language": "en",
   "files": ["**/*.{md,txt,dart}"],
-  "dictionaries": ["dart", "flutter"],
+  "dictionaries": ["dart", "flutter", "pubdev"],
   "dictionaryDefinitions": [
     {
       "name": "dart",
@@ -13,6 +13,11 @@
       "name": "flutter",
       "path": "./dict/flutter-cspell.txt",
       "description": "Flutter dictionary for cspell."
+    },
+    {
+      "name": "pubdev",
+      "path": "./dict/pubdev-cspell.txt",
+      "description": "pubdev dictionary for cspell."
     }
   ]
 }
