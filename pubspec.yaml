@@ -1,17 +1,19 @@
 name: flutter_cspell
 description: A sample command-line application.
 version: 1.0.0
+publish_to: "none"
 
 environment:
   sdk: ^3.4.1
 
-# Add regular dependencies here.
 dependencies:
-
-dev_dependencies:
-  lints: ^3.0.0
-  test: ^1.24.0
+  args: ^2.5.0
   dart_cspell_cli:
     git:
       url: https://github.com/fa0311/dart_cspell_cli.git
       ref: main
+  pub_api_client: ^2.7.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.24.0
