@@ -1,0 +1,21 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "flutter_launcher_icons",
+      "type": "shell",
+      "command": [
+        "flutter pub run flutter_launcher_icons;",
+        "npx prettier --write '{**/*,*}.{json,yaml,yml,md,html,css}';"
+      ]
+    },
+    {
+      "label": "flutter_native_splash",
+      "type": "shell",
+      "command": [
+        "dart run flutter_native_splash:create;",
+        "npx prettier --write '{**/*,*}.{json,yaml,yml,md,html,css}';"
+      ]
+    }
+  ]
+}
