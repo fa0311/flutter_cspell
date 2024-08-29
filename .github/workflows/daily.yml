@@ -1,0 +1,58 @@
+name: daily
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dart-lang/setup-dart@v1
+        with:
+          sdk: stable
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "latest"
+
+      - name: Pub get
+        run: dart pub get
+
+      - name: Clone flutter
+        run: |
+          git clone --depth 1 https://github.com/flutter/flutter.git temp/flutter/flutter
+          git clone --depth 1 https://github.com/flutter/packages.git temp/flutter/packages
+
+      - name: Clone dart
+        run: |
+          git clone --depth 1 https://github.com/dart-lang/sdk.git temp/dart-lang/sdk
+
+      - name: Check flutter
+        run: |
+          dart run dart_cspell_cli "temp/flutter/{flutter,packages}/packages/*/lib/**.dart" -o temp-output1.txt
+          npx cspell --no-color temp-output1.txt > temp-output2.txt
+          grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/flutter-cspell.txt
+
+      - name: Check dart
+        run: |
+          dart run dart_cspell_cli "temp/dart-lang/sdk/{sdk/lib,pkg/*/lib}/**.dart" -o temp-output1.txt
+          npx cspell --no-color temp-output1.txt > temp-output2.txt
+          grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/dart-cspell.txt
+
+      - name: Commit
+        continue-on-error: true
+        run: |
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Action"
+          git add .
+          git commit -m "Update"
+          git push origin main
