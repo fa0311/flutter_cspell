@@ -1,7 +1,6 @@
 allinonesdk
 appauth
 appcheck
-appinio
 appsflyer
 audioplayers
 avfoundation
@@ -10,7 +9,6 @@ barcodes
 bitsdojo
 blurhash
 callkit
-camerawesome
 camerax
 chewie
 clevertap
@@ -25,7 +23,6 @@ datepicker
 devicelocale
 dismisser
 displaymode
-dotenv
 dropzone
 dwds
 easyloading
@@ -48,12 +45,10 @@ geoflutterfire
 geolocation
 geolocator
 getwidget
-gotrue
 hexcolor
 holo
 iconly
 iconsax
-inappwebview
 ionicons
 ipify
 jsonwebtoken
@@ -61,6 +56,7 @@ latlong
 libphonenumber
 linkify
 lpinyin
+mapbox
 mlkit
 mobx
 mocktail
@@ -76,7 +72,6 @@ paytm
 pdfrx
 pdfview
 pdfviewer
-pdfx
 petitparser
 phonepe
 pinput
@@ -89,7 +84,6 @@ readmore
 recase
 reorderable
 reorderables
-rflutter
 riverpod
 rxdart
 salomon
