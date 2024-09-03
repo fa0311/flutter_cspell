@@ -45,6 +45,7 @@ fluttertoast
 flutterwave
 formz
 fpdart
+freerasp
 geoflutterfire
 geolocation
 geolocator
@@ -78,7 +79,6 @@ paytm
 pdfrx
 pdfview
 pdfviewer
-pdfx
 petitparser
 phonepe
 pinput
