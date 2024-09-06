@@ -6,10 +6,12 @@ appinio
 appsflyer
 audioplayers
 avfoundation
+azlistview
 barcodes
 bitsdojo
 blurhash
 callkit
+camerawesome
 camerax
 chewie
 clevertap
