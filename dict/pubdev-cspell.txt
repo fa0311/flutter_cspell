@@ -1,4 +1,3 @@
-allinonesdk
 animarker
 appauth
 appcheck
@@ -14,8 +13,6 @@ callkit
 camerawesome
 camerax
 chewie
-clevertap
-codegen
 colorpicker
 csslib
 cupertino
@@ -23,7 +20,6 @@ dartx
 dartz
 datagrid
 datepicker
-devicelocale
 dismisser
 displaymode
 dotenv
@@ -32,7 +28,6 @@ dwds
 easyloading
 exif
 ffigen
-fgbg
 filex
 firestore
 fixnum
@@ -45,7 +40,6 @@ fluttertoast
 flutterwave
 formz
 fpdart
-freerasp
 geoflutterfire
 geolocation
 geolocator
@@ -56,14 +50,11 @@ holo
 iconly
 iconsax
 inappwebview
-ionicons
 ipify
 jsonwebtoken
 latlong
 libphonenumber
 linkify
-lpinyin
-mapbox
 mlkit
 mobx
 mocktail
@@ -71,11 +62,9 @@ mqtt
 netcore
 numberpicker
 objectbox
-octo
 oktoast
 onesignal
 paystack
-paytm
 pdfrx
 pdfview
 pdfviewer
@@ -83,7 +72,6 @@ pdfx
 petitparser
 phonepe
 pinput
-pointycastle
 polyline
 postgrest
 pubspec
@@ -99,7 +87,6 @@ salomon
 screenutil
 scrollview
 searchfield
-sembast
 showcaseview
 sidebarx
 signalr
@@ -112,15 +99,12 @@ statusbarcolor
 storekit
 supabase
 syncfusion
-tabbar
 tflite
 timeago
 toastification
-udid
 unilink
 upgrader
 wakelock
-webrtc
 webservice
 webviewx
 wechat
