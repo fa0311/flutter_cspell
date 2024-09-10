@@ -155,6 +155,7 @@ enanced
 enctype
 endianity
 enuum
+exhaustivenesses
 expando
 exponentiate
 exprloc
@@ -769,6 +770,8 @@ unmute
 unobserve
 unpromoted
 unranked
+unreachabilities
+unreachability
 unsendable
 unsignaled
 unsplit
