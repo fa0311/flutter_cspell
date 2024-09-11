@@ -1,6 +1,8 @@
+allinonesdk
 animarker
 appauth
 appcheck
+appinio
 appsflyer
 audioplayers
 avfoundation
@@ -25,14 +27,17 @@ devicelocale
 dismisser
 displaymode
 dotenv
+dropzone
 dwds
 easyloading
+exif
 ffigen
 fgbg
 filex
 firestore
 fixnum
 flavorizr
+fluentui
 fluro
 flushbar
 fluttericon
@@ -42,6 +47,7 @@ formz
 fpdart
 freerasp
 geoflutterfire
+geolocation
 geolocator
 getwidget
 gotrue
@@ -51,6 +57,7 @@ iconly
 iconsax
 inappwebview
 ionicons
+ipify
 jsonwebtoken
 latlong
 libphonenumber
@@ -65,8 +72,10 @@ netcore
 numberpicker
 objectbox
 octo
+oktoast
 onesignal
 paystack
+paytm
 pdfrx
 pdfview
 pdfviewer
@@ -100,6 +109,8 @@ spinkit
 sprintf
 sqflite
 squircle
+statusbarcolor
+storekit
 supabase
 syncfusion
 tabbar
@@ -115,6 +126,7 @@ webservice
 webviewx
 wechat
 widgetbook
+windowmanager
 wkwebview
 wolt
 workmanager
