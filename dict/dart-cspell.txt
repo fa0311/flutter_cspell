@@ -198,6 +198,7 @@ fractalnoise
 framebuffer
 fullscreen
 funs
+futureor
 gamepad
 gamepads
 gbind
