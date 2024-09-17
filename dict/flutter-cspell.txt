@@ -257,7 +257,6 @@ multidex
 multitouch
 multitrack
 newln
-newrepo
 nodata
 noexcept
 nonconst
@@ -314,7 +313,6 @@ pdown
 personalhotspot
 phonelink
 pids
-pkgctl
 placemark
 playhead
 playpause
@@ -395,7 +393,6 @@ sublocality
 subtag
 sumarizer
 svideo
-syslogs
 sysroot
 systrace
 tappable
