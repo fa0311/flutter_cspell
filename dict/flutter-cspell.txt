@@ -191,6 +191,7 @@ iosarch
 iosarchive
 iosarchs
 ioscommand
+ioscontent
 ioscore
 iosdeploy
 iosdeployment
@@ -229,6 +230,7 @@ justifyleft
 justifyright
 jvalidator
 kabaddi
+kbps
 keypress
 kitesurfing
 klass
