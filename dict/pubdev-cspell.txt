@@ -8,12 +8,13 @@ audioplayers
 avfoundation
 azlistview
 barcodes
-bitsdojo
 blurhash
+callkit
 camerawesome
 camerax
 chewie
 clevertap
+codegen
 colorpicker
 csslib
 cupertino
@@ -36,6 +37,7 @@ firestore
 fixnum
 flavorizr
 fluentui
+fluro
 flushbar
 fluttericon
 fluttertoast
@@ -81,9 +83,7 @@ phonepe
 pinput
 pointycastle
 polyline
-postgrest
 pubspec
-quickalert
 readmore
 recase
 reorderable
@@ -97,8 +97,8 @@ scrollview
 searchfield
 sembast
 showcaseview
-sidebarx
 signalr
+signaturepad
 skeletonizer
 spinkit
 sprintf
@@ -126,4 +126,3 @@ wkwebview
 wolt
 workmanager
 xlider
-xlsio
