@@ -8,6 +8,7 @@ audioplayers
 avfoundation
 azlistview
 barcodes
+bitsdojo
 blurhash
 callkit
 camerawesome
@@ -83,7 +84,9 @@ phonepe
 pinput
 pointycastle
 polyline
+postgrest
 pubspec
+quickalert
 readmore
 recase
 reorderable
@@ -97,6 +100,7 @@ scrollview
 searchfield
 sembast
 showcaseview
+sidebarx
 signalr
 signaturepad
 skeletonizer
@@ -126,3 +130,4 @@ wkwebview
 wolt
 workmanager
 xlider
+xlsio
