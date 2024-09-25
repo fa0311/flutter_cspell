@@ -14,7 +14,6 @@ callkit
 camerawesome
 camerax
 chewie
-clevertap
 codegen
 colorpicker
 csslib
@@ -70,7 +69,6 @@ mqtt
 netcore
 numberpicker
 objectbox
-octo
 oktoast
 onesignal
 paystack
@@ -78,7 +76,6 @@ paytm
 pdfrx
 pdfview
 pdfviewer
-pdfx
 petitparser
 phonepe
 pinput
@@ -105,7 +102,6 @@ signalr
 signaturepad
 skeletonizer
 spinkit
-sprintf
 sqflite
 squircle
 statusbarcolor

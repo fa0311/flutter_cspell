@@ -206,7 +206,6 @@ iosfeature
 iosframework
 iosinteractive
 iosinterface
-iosinternal
 ioslaunch
 iosplugin
 iosruntimes
@@ -215,6 +214,7 @@ iossdk
 iossimulator
 iossimulators
 iosspell
+iostarget
 iosversion
 iosworkflow
 ipas
@@ -287,10 +287,10 @@ osdevices
 osenabled
 osengine
 osexecutable
+osflutter
 osframework
 osfuchsia
 oshorizontal
-osinternal
 osmigration
 osplatform
 osplugin
@@ -298,6 +298,7 @@ osproject
 osscroll
 osselector
 ostap
+ostarget
 ostest
 osversion
 osworkflow
