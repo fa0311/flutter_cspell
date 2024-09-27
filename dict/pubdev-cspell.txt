@@ -1,3 +1,4 @@
+allinonesdk
 animarker
 appauth
 appcheck
@@ -9,10 +10,11 @@ azlistview
 barcodes
 bitsdojo
 blurhash
+callkit
+camerawesome
 camerax
 chewie
 clevertap
-codegen
 colorpicker
 csslib
 cupertino
@@ -28,6 +30,7 @@ dropzone
 dwds
 easyloading
 exif
+ffigen
 fgbg
 filex
 firestore
@@ -70,9 +73,11 @@ octo
 oktoast
 onesignal
 paystack
+paytm
 pdfrx
 pdfview
 pdfviewer
+pdfx
 petitparser
 phonepe
 pinput
@@ -122,5 +127,6 @@ widgetbook
 windowmanager
 wkwebview
 wolt
+workmanager
 xlider
 xlsio
