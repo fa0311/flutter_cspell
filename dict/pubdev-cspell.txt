@@ -106,7 +106,6 @@ skeletonizer
 spinkit
 sprintf
 sqflite
-squircle
 statusbarcolor
 storekit
 supabase
