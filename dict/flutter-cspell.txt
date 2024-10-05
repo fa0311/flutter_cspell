@@ -257,7 +257,6 @@ mobiledata
 motorsports
 msvc
 multidex
-multitouch
 multitrack
 newln
 nodata
