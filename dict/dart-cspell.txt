@@ -195,11 +195,8 @@ fontfaces
 foreignfetch
 fori
 fractalnoise
-framebuffer
-fullscreen
 funs
 futureor
-gamepad
 gamepads
 gbind
 gcevent
@@ -674,7 +671,6 @@ sigwinch
 sigxcpu
 sigxfsz
 simarm
-simd
 simriscv
 simx
 sizeofcmds
@@ -754,7 +750,6 @@ unaliased
 unawaited
 uncacheable
 uncategorized
-uncompress
 uncomputed
 undefer
 undefineable

@@ -129,10 +129,8 @@ fsfile
 fsreport
 fsstring
 fswriter
-fullscreen
 gainsboro
 gamecontroller
-gamepad
 gapless
 gccount
 gcroot
@@ -396,7 +394,6 @@ sublocality
 subtag
 sumarizer
 svideo
-sysroot
 systrace
 tappable
 tdur
@@ -433,7 +430,6 @@ uithread
 uiview
 uiwindow
 uncollapsed
-uncompress
 unfocus
 unforward
 unsynchronized

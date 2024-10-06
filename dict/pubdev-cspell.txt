@@ -14,10 +14,8 @@ callkit
 camerawesome
 camerax
 chewie
-chucker
 clevertap
 colorpicker
-csslib
 cupertino
 dartx
 dartz
@@ -33,7 +31,6 @@ easyloading
 exif
 ffigen
 fgbg
-filex
 firestore
 fixnum
 flavorizr
@@ -44,7 +41,6 @@ fluttericon
 fluttertoast
 flutterwave
 formz
-fpdart
 freerasp
 geoflutterfire
 geolocation
@@ -54,9 +50,7 @@ gotrue
 hexcolor
 holo
 iconly
-iconsax
 inappwebview
-ionicons
 ipify
 jsonwebtoken
 latlong
@@ -118,7 +112,6 @@ timeago
 toastification
 udid
 unilink
-upgrader
 wakelock
 webrtc
 webservice
@@ -126,7 +119,6 @@ webviewx
 wechat
 widgetbook
 windowmanager
-wkwebview
 wolt
 workmanager
 xlider
