@@ -572,6 +572,7 @@ pltgot
 pltrelsz
 polyline
 popcnt
+postable
 postcondition
 powerset
 powersets
