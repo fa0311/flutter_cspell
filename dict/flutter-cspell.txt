@@ -422,6 +422,8 @@ twighlight
 udid
 uiapplication
 uichange
+uielement
+uielements
 uiframe
 uimode
 uioverlay

@@ -27,6 +27,7 @@ dismisser
 displaymode
 dotenv
 dropzone
+dwds
 easyloading
 exif
 ffigen
@@ -36,10 +37,12 @@ firestore
 fixnum
 flavorizr
 fluentui
+fluro
 flushbar
 fluttericon
 fluttertoast
 flutterwave
+formz
 fpdart
 freerasp
 geoflutterfire
@@ -66,7 +69,6 @@ mqtt
 netcore
 numberpicker
 objectbox
-octo
 oktoast
 onesignal
 paystack
@@ -111,6 +113,7 @@ syncfusion
 tabbar
 tflite
 timeago
+toastification
 udid
 unilink
 upgrader
