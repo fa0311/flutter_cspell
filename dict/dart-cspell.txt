@@ -3,6 +3,7 @@ aconstant
 addrptr
 addrx
 aelement
+aextension
 afunction
 ainvalid
 alist
