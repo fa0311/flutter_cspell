@@ -2,7 +2,6 @@ allinonesdk
 animarker
 appauth
 appcheck
-appinio
 appsflyer
 audioplayers
 avfoundation
@@ -10,7 +9,6 @@ azlistview
 barcodes
 bitsdojo
 blurhash
-callkit
 camerawesome
 camerax
 chewie
@@ -32,7 +30,6 @@ dwds
 easyloading
 exif
 ffigen
-fgbg
 filex
 firestore
 fixnum
@@ -47,7 +44,6 @@ formz
 fpdart
 freerasp
 geoflutterfire
-geolocation
 geolocator
 getwidget
 gotrue
@@ -60,15 +56,12 @@ ionicons
 ipify
 jsonwebtoken
 latlong
-libphonenumber
 linkify
 mapbox
 mlkit
 mobx
 mocktail
 mqtt
-netcore
-numberpicker
 objectbox
 oktoast
 onesignal
@@ -78,7 +71,6 @@ pdfview
 pdfviewer
 pdfx
 petitparser
-phonepe
 pinput
 pointycastle
 polyline
@@ -89,7 +81,6 @@ readmore
 recase
 reorderable
 reorderables
-rflutter
 riverpod
 rxdart
 salomon
@@ -99,7 +90,6 @@ searchfield
 sembast
 showcaseview
 sidebarx
-signalr
 signaturepad
 skeletonizer
 spinkit
