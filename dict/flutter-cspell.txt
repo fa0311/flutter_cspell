@@ -331,6 +331,7 @@ printshop
 ptoggle
 pubspec
 pubspecs
+pwsh
 qrcode
 quickreply
 quora
