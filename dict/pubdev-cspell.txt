@@ -1,17 +1,21 @@
 allinonesdk
+animarker
 appauth
 appcheck
 appinio
+appsflyer
 audioplayers
 avfoundation
 azlistview
 barcodes
+bitsdojo
 blurhash
 callkit
 camerawesome
 camerax
 chewie
 chucker
+clevertap
 colorpicker
 csslib
 cupertino
@@ -19,6 +23,7 @@ dartx
 dartz
 datagrid
 datepicker
+devicelocale
 dismisser
 displaymode
 dotenv
@@ -33,6 +38,7 @@ firestore
 fixnum
 flavorizr
 fluentui
+fluro
 flushbar
 fluttericon
 fluttertoast
@@ -52,6 +58,7 @@ iconsax
 inappwebview
 ionicons
 ipify
+jsonwebtoken
 latlong
 libphonenumber
 linkify
@@ -61,6 +68,7 @@ mobx
 mocktail
 mqtt
 netcore
+numberpicker
 objectbox
 oktoast
 onesignal
@@ -78,7 +86,7 @@ postgrest
 pubspec
 quickalert
 readmore
-recaptcha
+recase
 reorderable
 reorderables
 rflutter
@@ -106,6 +114,7 @@ tflite
 timeago
 toastification
 udid
+unilink
 upgrader
 wakelock
 webrtc

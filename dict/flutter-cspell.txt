@@ -170,6 +170,7 @@ idevicesyslog
 illum
 imaad
 imaads
+imacompanion
 imacontent
 imafriendly
 imagesearch
