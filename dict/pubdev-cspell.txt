@@ -6,7 +6,6 @@ appinio
 appsflyer
 audioplayers
 avfoundation
-azlistview
 barcodes
 bitsdojo
 blurhash
@@ -19,19 +18,16 @@ clevertap
 colorpicker
 csslib
 cupertino
-dartx
 dartz
 datagrid
 datepicker
 devicelocale
-dismisser
 displaymode
 dotenv
 dropzone
 dwds
 easyloading
 exif
-ffigen
 fgbg
 filex
 firestore
@@ -52,8 +48,6 @@ geolocator
 getwidget
 gotrue
 hexcolor
-holo
-iconly
 iconsax
 inappwebview
 ionicons
@@ -62,12 +56,10 @@ jsonwebtoken
 latlong
 libphonenumber
 linkify
-mapbox
 mlkit
 mobx
 mocktail
 mqtt
-netcore
 numberpicker
 objectbox
 oktoast
@@ -87,7 +79,6 @@ pubspec
 quickalert
 readmore
 recase
-reorderable
 reorderables
 rflutter
 riverpod
@@ -99,14 +90,11 @@ searchfield
 sembast
 showcaseview
 sidebarx
-signalr
 signaturepad
 skeletonizer
 spinkit
 sprintf
 sqflite
-statusbarcolor
-storekit
 supabase
 syncfusion
 tabbar
@@ -114,6 +102,7 @@ tflite
 timeago
 toastification
 udid
+uikit
 unilink
 upgrader
 wakelock
@@ -128,3 +117,4 @@ wolt
 workmanager
 xlider
 xlsio
+zego
