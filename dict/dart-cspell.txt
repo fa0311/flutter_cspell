@@ -102,7 +102,6 @@ dcall
 ddctype
 ddsinstance
 ddsrunner
-debugee
 decimalpoint
 decr
 defaultable

@@ -114,7 +114,6 @@ tflite
 timeago
 toastification
 udid
-uikit
 unilink
 upgrader
 wakelock
@@ -129,4 +128,3 @@ wolt
 workmanager
 xlider
 xlsio
-zego
