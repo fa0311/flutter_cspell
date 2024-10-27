@@ -1,3 +1,4 @@
+allinonesdk
 animarker
 appauth
 appcheck
@@ -8,7 +9,9 @@ avfoundation
 azlistview
 barcodes
 bitsdojo
+blurhash
 callkit
+camerawesome
 camerax
 chewie
 chucker
@@ -16,6 +19,7 @@ clevertap
 colorpicker
 csslib
 cupertino
+dartx
 dartz
 datagrid
 datepicker
@@ -28,6 +32,7 @@ dwds
 easyloading
 exif
 ffigen
+fgbg
 filex
 firestore
 fixnum
@@ -40,6 +45,7 @@ fluttertoast
 flutterwave
 formz
 fpdart
+freerasp
 geoflutterfire
 geolocation
 geolocator
@@ -47,12 +53,14 @@ getwidget
 gotrue
 hexcolor
 holo
+iconly
 iconsax
 inappwebview
 ionicons
 ipify
 jsonwebtoken
 latlong
+libphonenumber
 linkify
 mapbox
 mlkit
@@ -64,16 +72,22 @@ numberpicker
 objectbox
 oktoast
 onesignal
+paytm
 pdfrx
 pdfview
 pdfviewer
 pdfx
 petitparser
+phonepe
 pinput
+pointycastle
 polyline
+postgrest
 pubspec
+quickalert
 readmore
 recase
+reorderable
 reorderables
 rflutter
 riverpod
@@ -82,10 +96,12 @@ salomon
 screenutil
 scrollview
 searchfield
+sembast
 showcaseview
 sidebarx
 signalr
 signaturepad
+skeletonizer
 spinkit
 sprintf
 sqflite
@@ -94,6 +110,7 @@ storekit
 supabase
 syncfusion
 tabbar
+tflite
 timeago
 toastification
 udid
@@ -108,6 +125,7 @@ wechat
 widgetbook
 windowmanager
 wkwebview
+wolt
 workmanager
 xlider
 xlsio
