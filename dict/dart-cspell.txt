@@ -99,6 +99,7 @@ datagram
 datas
 dbrequest
 dcall
+ddccommand
 ddctype
 ddsinstance
 ddsrunner
