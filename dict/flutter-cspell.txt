@@ -17,6 +17,7 @@ animatable
 aotsnapshotter
 archivebox
 archs
+argb
 armeabi
 armv
 arrowshape
@@ -80,6 +81,7 @@ deblur
 dehaze
 demangle
 demangler
+denormal
 depfile
 depfiles
 descendents
@@ -247,6 +249,7 @@ lipo
 logcat
 lrsetb
 ltrb
+ltwh
 macwindow
 markunread
 mdns
@@ -316,6 +319,7 @@ pdown
 personalhotspot
 phonelink
 pids
+pimage
 placemark
 playhead
 playpause
@@ -334,11 +338,13 @@ ptoggle
 pubspec
 pubspecs
 pwsh
+qnan
 qrcode
 quickreply
 quora
 quotelevel
 radiowaves
+raste
 rasterizations
 rasterizer
 readlink
@@ -353,6 +359,7 @@ reorderable
 reparent
 resampler
 retransform
+rgbo
 righthalf
 romaji
 rpcerror
@@ -368,6 +375,7 @@ sdkoption
 sdkroot
 sdkversion
 selectables
+significand
 signup
 sigusr
 sigwinch
@@ -400,6 +408,8 @@ svideo
 systrace
 tappable
 tdur
+tesselator
+tessellator
 textable
 textdirection
 textformat
@@ -418,10 +428,12 @@ trianglepath
 tropicalstorm
 truncatable
 tryjob
+tspan
 tuningfork
 tvos
 tweens
 twighlight
+tyle
 udid
 uiapplication
 uichange
@@ -446,12 +458,14 @@ uturn
 vcvars
 videocam
 videogame
+viewbox
 vmservice
 vmtime
 vrpano
 vswhere
 vsync
 watchos
+webp
 wechat
 whatshot
 writeln
