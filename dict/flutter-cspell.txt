@@ -359,6 +359,7 @@ reorderable
 reparent
 resampler
 retransform
+rgba
 rgbo
 righthalf
 romaji
