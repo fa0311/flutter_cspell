@@ -71,6 +71,7 @@ mqtt
 netcore
 numberpicker
 objectbox
+octo
 oktoast
 onesignal
 paytm

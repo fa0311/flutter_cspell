@@ -61,6 +61,7 @@ cancelation
 caron
 carray
 cascadable
+ccompiler
 cfecompile
 cfecrash
 chadevirtualization
