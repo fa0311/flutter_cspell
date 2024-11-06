@@ -277,6 +277,7 @@ offgrid
 ondemand
 onetwothree
 osapp
+osarchitectures
 osarchs
 osblinking
 osbuild
