@@ -240,7 +240,6 @@ klass
 largecircle
 launchable
 layouter
-leaderboard
 lefthalf
 lerp
 lessthan
