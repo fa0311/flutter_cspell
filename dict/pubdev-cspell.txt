@@ -10,7 +10,6 @@ azlistview
 barcodes
 bitsdojo
 blurhash
-callkit
 camerawesome
 camerax
 chewie
