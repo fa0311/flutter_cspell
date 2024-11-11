@@ -84,9 +84,7 @@ pointycastle
 polyline
 postgrest
 pubspec
-quickalert
 readmore
-recase
 reorderable
 reorderables
 rflutter
@@ -113,7 +111,6 @@ tabbar
 tflite
 timeago
 toastification
-udid
 uikit
 unilink
 upgrader
