@@ -53,7 +53,6 @@ cipd
 circlepath
 cisystem
 cmdline
-cocoapod
 cocoapods
 codesign
 coep

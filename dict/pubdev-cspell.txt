@@ -10,6 +10,7 @@ azlistview
 barcodes
 bitsdojo
 blurhash
+callkit
 camerawesome
 camerax
 chewie
@@ -84,7 +85,9 @@ pointycastle
 polyline
 postgrest
 pubspec
+quickalert
 readmore
+recase
 reorderable
 reorderables
 rflutter
@@ -111,6 +114,7 @@ tabbar
 tflite
 timeago
 toastification
+udid
 uikit
 unilink
 upgrader
@@ -127,3 +131,4 @@ workmanager
 xlider
 xlsio
 zego
+zxing
