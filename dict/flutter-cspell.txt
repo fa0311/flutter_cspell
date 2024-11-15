@@ -291,6 +291,7 @@ osengine
 osexecutable
 osflutter
 osframework
+osfrom
 osfuchsia
 oshorizontal
 osmigration
@@ -320,6 +321,7 @@ phonelink
 pids
 pimage
 placemark
+platfrorm
 playhead
 playpause
 plusminus
