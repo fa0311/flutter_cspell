@@ -392,8 +392,6 @@ slpath
 slservice
 slshader
 smallcircle
-snapshotter
-snapshotting
 splitscreen
 sportscourt
 squarepath

@@ -679,7 +679,6 @@ skewx
 skewy
 sleb
 smis
-snapshotting
 snorm
 spacebar
 spacingandglyphs
