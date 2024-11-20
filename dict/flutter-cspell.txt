@@ -189,6 +189,7 @@ iosads
 iosanalyze
 iosapp
 iosarch
+iosarchitecture
 iosarchive
 iosarchs
 ioscommand
@@ -215,7 +216,6 @@ iossdk
 iossimulator
 iossimulators
 iosspell
-iostarget
 iosversion
 iosworkflow
 ipas
@@ -275,6 +275,7 @@ offgrid
 ondemand
 onetwothree
 osapp
+osarchitecture
 osarchitectures
 osarchs
 osblinking
@@ -301,7 +302,6 @@ osproject
 osscroll
 osselector
 ostap
-ostarget
 ostest
 osversion
 osworkflow
