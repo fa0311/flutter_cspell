@@ -69,7 +69,6 @@ mqtt
 netcore
 numberpicker
 objectbox
-octo
 oktoast
 onesignal
 paytm
@@ -114,6 +113,7 @@ tflite
 timeago
 toastification
 udid
+uikit
 unilink
 upgrader
 wakelock
@@ -128,4 +128,5 @@ wolt
 workmanager
 xlider
 xlsio
+zego
 zxing
