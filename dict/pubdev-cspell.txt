@@ -16,7 +16,6 @@ camerax
 chewie
 chucker
 clevertap
-codegen
 colorpicker
 csslib
 cupertino
