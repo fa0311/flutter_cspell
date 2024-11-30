@@ -16,7 +16,6 @@ camerax
 chewie
 chucker
 clevertap
-codegen
 colorpicker
 csslib
 cupertino
@@ -115,7 +114,6 @@ tflite
 timeago
 toastification
 udid
-uikit
 unilink
 upgrader
 wakelock
@@ -130,5 +128,4 @@ wolt
 workmanager
 xlider
 xlsio
-zego
 zxing
