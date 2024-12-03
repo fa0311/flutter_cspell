@@ -10,6 +10,7 @@ azlistview
 barcodes
 bitsdojo
 blurhash
+callkit
 camerawesome
 camerax
 charcode
@@ -49,7 +50,9 @@ freerasp
 geolocation
 geolocator
 getwidget
+gotrue
 hexcolor
+holo
 iconly
 iconsax
 inappwebview
@@ -57,6 +60,7 @@ ionicons
 ipify
 jsonwebtoken
 latlong
+libphonenumber
 linkify
 mapbox
 mlkit
@@ -76,6 +80,7 @@ pdfviewer
 pdfx
 petitparser
 phonepe
+pinput
 pointycastle
 polyline
 postgrest
@@ -102,6 +107,7 @@ spinkit
 sprintf
 sqflite
 statusbarcolor
+storekit
 supabase
 syncfusion
 tabbar
@@ -113,9 +119,11 @@ unilink
 upgrader
 wakelock
 webrtc
+webservice
 webviewx
 wechat
 widgetbook
+windowmanager
 wkwebview
 wolt
 workmanager
