@@ -1,6 +1,7 @@
 aapt
 addchart
 addln
+adsbygoogle
 adslot
 agood
 ahsl
@@ -323,7 +324,6 @@ phonelink
 pids
 pimage
 placemark
-platfrorm
 playhead
 playpause
 plusminus
@@ -378,6 +378,7 @@ sdkoption
 sdkroot
 sdkversion
 selectables
+sidebyside
 significand
 signup
 sigusr
