@@ -62,6 +62,7 @@ jsonwebtoken
 latlong
 libphonenumber
 linkify
+lpinyin
 mapbox
 mlkit
 mobx

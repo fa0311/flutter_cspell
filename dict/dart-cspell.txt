@@ -554,6 +554,7 @@ oserror
 osutilities
 osversion
 osymtab
+otool
 overapproximate
 overconstrained
 oversample
