@@ -462,7 +462,6 @@ lequal
 libraryuri
 lielement
 lineptr
-lintable
 locationbar
 loclist
 loclists
