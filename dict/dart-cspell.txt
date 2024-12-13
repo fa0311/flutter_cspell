@@ -358,6 +358,7 @@ jprogram
 jrecord
 jsannotated
 jsannotation
+jsannotations
 jsanonymous
 jsany
 jsargs
@@ -375,6 +376,7 @@ jscompilers
 jscondition
 jscruntime
 jsdata
+jsembedded
 jsentity
 jsetter
 jsexception
@@ -384,17 +386,20 @@ jsexported
 jsexpression
 jsextendable
 jsextension
+jsfirst
 jsfixed
 jsfloat
 jsframevalues
 jsfunction
 jsheap
+jshelper
 jsidentifier
 jsify
 jsignature
 jsindexable
 jsint
 jsinteger
+jsinterceptor
 jsinterop
 jsinvocation
 jsjava
@@ -419,6 +424,8 @@ jsrange
 jsreg
 jsrequires
 jsruntime
+jssecond
+jsshared
 jsshell
 jssimple
 jsspread
@@ -433,6 +440,7 @@ jsuncached
 jsundefined
 jsunknown
 jsunmodifiable
+jsutil
 jsvalue
 jsvoid
 jswrapped
@@ -511,7 +519,6 @@ nonced
 nonconstant
 nonfinalized
 nonfunction
-nonnull
 nonobvious
 noreturn
 nostitch
