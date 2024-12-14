@@ -1,6 +1,5 @@
 allinonesdk
 animarker
-appauth
 appcheck
 appinio
 appsflyer
@@ -11,12 +10,10 @@ barcodes
 bitsdojo
 blurhash
 callkit
-camerawesome
 camerax
-charcode
 chewie
 chucker
-clevertap
+codegen
 colorpicker
 csslib
 cupertino
@@ -44,6 +41,7 @@ flushbar
 fluttericon
 fluttertoast
 flutterwave
+fluwx
 formz
 fpdart
 freerasp
@@ -80,7 +78,6 @@ pdfview
 pdfviewer
 pdfx
 petitparser
-phonepe
 pinput
 pointycastle
 polyline
@@ -129,4 +126,3 @@ wolt
 workmanager
 xlider
 xlsio
-zxing
