@@ -637,7 +637,6 @@ rpcerror
 rpcresponses
 rrcommand
 rsquare
-ruleset
 runtimetype
 rvalue
 scrollbars

@@ -129,4 +129,5 @@ wolt
 workmanager
 xlider
 xlsio
+yaru
 zxing
