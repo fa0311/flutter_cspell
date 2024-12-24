@@ -1,4 +1,5 @@
 allinonesdk
+animarker
 appauth
 appcheck
 appinio

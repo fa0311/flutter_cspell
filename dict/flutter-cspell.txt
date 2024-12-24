@@ -334,7 +334,6 @@ podfile
 podspec
 polyline
 prebuild
-precache
 precompiler
 prelayout
 preroll
@@ -454,7 +453,6 @@ uncollapsed
 unfocus
 unforward
 unsynchronized
-upscaling
 urlno
 urlreflects
 utiidentifier

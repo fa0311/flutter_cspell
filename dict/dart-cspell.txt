@@ -234,7 +234,6 @@ hdcp
 hdivide
 hexit
 hexpression
-hfield
 hforeign
 hfunction
 hget
@@ -242,7 +241,6 @@ hgoto
 hgraph
 hgreater
 hidentity
-hindex
 hinstance
 hinstruction
 hinterceptor
@@ -253,7 +251,6 @@ hlate
 hlazy
 hless
 hliteral
-hload
 hlocal
 hloop
 hmultiply
@@ -280,7 +277,6 @@ hstringify
 hsub
 hsubtract
 hsubtype
-hswitch
 hthis
 hthrow
 htracer
@@ -535,20 +531,17 @@ numlock
 numpad
 nums
 objectboundingbox
-odata
 odyld
 odysymtab
 oencryption
 oentry
 oexecutable
-ofile
 ofor
 ogeneric
 ogonek
 oheader
 olinkedit
 olist
-oload
 oneshot
 onote
 optype
@@ -711,7 +704,6 @@ stylesheet
 subexpression
 subkind
 sublist
-subname
 suborigin
 subpattern
 subrange
@@ -775,7 +767,6 @@ unreachabilities
 unreachability
 unsendable
 unsignaled
-unsplit
 unvalidated
 unwrapper
 upgrader
