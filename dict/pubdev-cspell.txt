@@ -92,6 +92,7 @@ recase
 reorderable
 reorderables
 rflutter
+rhttp
 riverpod
 rxdart
 salomon
