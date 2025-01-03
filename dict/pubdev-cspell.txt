@@ -1,6 +1,5 @@
 allinonesdk
 appauth
-appcheck
 appinio
 appsflyer
 audioplayers
