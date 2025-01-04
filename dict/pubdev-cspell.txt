@@ -91,7 +91,6 @@ recase
 reorderable
 reorderables
 rflutter
-rhttp
 riverpod
 rxdart
 salomon
@@ -130,4 +129,3 @@ workmanager
 xlider
 xlsio
 yaru
-zxing
