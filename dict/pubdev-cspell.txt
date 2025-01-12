@@ -71,6 +71,7 @@ mlkit
 mobx
 mocktail
 msix
+newrelic
 numberpicker
 numerus
 octo
