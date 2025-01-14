@@ -32,7 +32,6 @@ diffutil
 dotenv
 dropzone
 dwds
-dynatrace
 earcut
 easyloading
 eventify
@@ -71,6 +70,7 @@ mlkit
 mobx
 mocktail
 msix
+newrelic
 numberpicker
 numerus
 octo
