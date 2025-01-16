@@ -91,6 +91,7 @@ postgrest
 protoc
 pubspec
 readmore
+recaptcha
 recase
 reorderables
 rinf
