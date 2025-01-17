@@ -35,7 +35,6 @@ dwds
 dynatrace
 earcut
 easyloading
-eventify
 ffigen
 fgbg
 filex
@@ -93,7 +92,6 @@ pubspec
 readmore
 recaptcha
 recase
-reorderables
 rinf
 riverpod
 rrule
