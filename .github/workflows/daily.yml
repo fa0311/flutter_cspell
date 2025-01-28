@@ -35,16 +35,22 @@ jobs:
       - name: Clone dart
         run: |
           git clone --depth 1 https://github.com/dart-lang/sdk.git temp/dart-lang/sdk
+          git clone --depth 1 https://github.com/dart-lang/core.git temp/dart-lang/core
+          git clone --depth 1 https://github.com/dart-lang/test.git temp/dart-lang/test
+          git clone --depth 1 https://github.com/dart-lang/mockito.git temp/dart-lang/mockito
+          git clone --depth 1 https://github.com/dart-lang/glob.git temp/dart-lang/glob
+          git clone --depth 1 https://github.com/dart-lang/http.git temp/dart-lang/http
+          git clone --depth 1 https://github.com/dart-lang/macros.git temp/dart-lang/macros
 
       - name: Check flutter
         run: |
-          dart run dart_cspell_cli "temp/flutter/{flutter,packages}/packages/*/lib/**.dart" -o temp-output1.txt
+          dart run dart_cspell_cli "temp/flutter/*/packages/*/lib/**.dart" -o temp-output1.txt
           npx cspell --no-color --no-exit-code temp-output1.txt > temp-output2.txt
           grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/flutter-cspell.txt
 
       - name: Check dart
         run: |
-          dart run dart_cspell_cli "temp/dart-lang/sdk/{sdk/lib,pkg/*/lib}/**.dart" -o temp-output1.txt
+          dart run dart_cspell_cli "temp/dart-lang/{*/pkg/*/lib,*/sdk/lib,lib}/**.dart" -o temp-output1.txt
           npx cspell --no-color --no-exit-code temp-output1.txt > temp-output2.txt
           grep -oP '(?<=Unknown word \()\w+(?=\))' temp-output2.txt | sort | uniq > dict/dart-cspell.txt
 
