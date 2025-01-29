@@ -1049,7 +1049,7 @@ ixgrp
 ixoth
 ixrss
 ixusr
-jarray
+jbyte
 jclass
 jclosed
 jclosure
@@ -1072,6 +1072,7 @@ jlocal
 jmember
 jmembers
 jmethod
+jobject
 journaling
 jparameter
 jprogram
@@ -1358,6 +1359,7 @@ nativefieldwrapperclass
 navigations
 nbby
 nbsp
+nbytes
 ncmds
 ndelay
 nearbyint
@@ -2015,6 +2017,7 @@ spannable
 specializer
 spki
 splayable
+spliterator
 spreadmethod
 sprequest
 sprintf
@@ -2063,6 +2066,7 @@ ssldecompress
 ssldecryption
 ssldispose
 sslearly
+sslengine
 sslfatal
 sslget
 sslhandshake
@@ -2077,6 +2081,7 @@ sslnegotiation
 sslnetwork
 sslnew
 sslno
+sslparameters
 sslpeer
 sslprotocol
 sslre
@@ -2085,6 +2090,7 @@ sslrecord
 sslserver
 sslsession
 sslset
+sslsocket
 sslstream
 ssltransport
 sslunexpected
@@ -2187,6 +2193,7 @@ tanf
 tanhf
 tapp
 taskptr
+tbscertificate
 tcgetpgrp
 tcsetpgrp
 tearoff
