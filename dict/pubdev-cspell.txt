@@ -57,6 +57,7 @@ hashcodes
 hotreloader
 iconsax
 inappwebview
+instabug
 ipify
 iregexp
 irondash
@@ -122,6 +123,7 @@ upgrader
 upower
 usabilla
 wakelock
+webdev
 webrtc
 webviewx
 widgetbook
