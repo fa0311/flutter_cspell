@@ -60,7 +60,6 @@ inappwebview
 instabug
 ipify
 iregexp
-irondash
 jsonwebtoken
 junitreport
 latlong
