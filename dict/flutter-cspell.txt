@@ -103,6 +103,7 @@ drrect
 dsample
 dsym
 dsymutil
+durify
 dwds
 dylib
 dylibs
