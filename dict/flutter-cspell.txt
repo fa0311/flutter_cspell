@@ -389,14 +389,8 @@ sigwinch
 simct
 simctl
 skia
-sksl
 skwasm
-slbundle
-slmethod
 slowmo
-slpath
-slservice
-slshader
 smallcircle
 splitscreen
 sportscourt

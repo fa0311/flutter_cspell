@@ -92,6 +92,7 @@ pubspec
 readmore
 recaptcha
 recase
+rinf
 riverpod
 rrule
 rxdart
