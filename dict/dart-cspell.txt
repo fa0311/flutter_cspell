@@ -144,6 +144,7 @@ calloc
 callocfunction
 callstacks
 cancelation
+canonicalizer
 cany
 caron
 carray
@@ -1644,6 +1645,7 @@ otool
 oublock
 overapproximate
 overconstrained
+overrideable
 oversample
 owriter
 paddr
@@ -2301,6 +2303,7 @@ unsignaled
 unvalidated
 unwhiteout
 unwrapper
+updateable
 upgrader
 uquad
 uref

@@ -79,7 +79,6 @@ ddcbootstrap
 ddckernel
 ddclibrary
 ddcmain
-ddcsound
 ddslauncher
 deblur
 dehaze
@@ -103,7 +102,6 @@ drrect
 dsample
 dsym
 dsymutil
-durify
 dwds
 dylib
 dylibs
@@ -232,7 +230,6 @@ jskernel
 jsonify
 jsonmessage
 jsonmethod
-jssound
 jstarget
 junja
 justifyleft
