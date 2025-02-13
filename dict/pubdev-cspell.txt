@@ -23,7 +23,6 @@ cupertino
 dartdoc
 dartx
 dartz
-datagrid
 datepicker
 dbus
 dcli
@@ -97,7 +96,6 @@ rinf
 riverpod
 rrule
 rxdart
-saslprep
 scip
 screenutil
 scrollables
