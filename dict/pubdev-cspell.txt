@@ -108,6 +108,7 @@ spinkit
 sprintf
 sqflite
 sqlparser
+storekit
 supabase
 syncfusion
 teamid
