@@ -56,7 +56,6 @@ hashcodes
 hotreloader
 iconsax
 inappwebview
-instabug
 ipify
 iregexp
 jsonwebtoken
@@ -72,7 +71,6 @@ mocktail
 msix
 newrelic
 numberpicker
-numerus
 octo
 onesignal
 opentracing
@@ -95,6 +93,7 @@ recase
 riverpod
 rrule
 rxdart
+saslprep
 scip
 screenutil
 scrollables
