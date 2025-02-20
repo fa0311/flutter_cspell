@@ -420,6 +420,7 @@ dartdaddr
 dartdev
 dartdispatch
 dartdoc
+dartdocument
 dartdouble
 darterrno
 dartfloat

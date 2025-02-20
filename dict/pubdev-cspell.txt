@@ -56,7 +56,6 @@ hashcodes
 hotreloader
 iconsax
 inappwebview
-instabug
 ipify
 iregexp
 jsonwebtoken
