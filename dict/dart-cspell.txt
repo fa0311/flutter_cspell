@@ -536,7 +536,6 @@ dtdevent
 dtdimpl
 dtdresponse
 dtdservice
-dtdsnapshot
 dtdstream
 dtest
 dtls

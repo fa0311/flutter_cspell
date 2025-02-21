@@ -368,7 +368,6 @@ righthalf
 romaji
 rrect
 rubl
-scenec
 screenshotting
 scrollbars
 scroller
