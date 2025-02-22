@@ -43,7 +43,6 @@ bolden
 borderless
 bottomhalf
 bottomthird
-buildable
 cameraswitch
 canvaskit
 capslock
@@ -110,7 +109,6 @@ edgesensor
 eisu
 embedder
 enterexit
-esports
 exclam
 exclamationmark
 extralong
@@ -220,6 +218,7 @@ iossdk
 iossimulator
 iossimulators
 iosspell
+iossystem
 iosversion
 iosworkflow
 ipas

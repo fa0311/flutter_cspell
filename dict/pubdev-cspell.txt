@@ -5,7 +5,6 @@ appsflyer
 audioplayers
 avfoundation
 bazel
-beamer
 bech
 bidi
 blurhash
@@ -93,6 +92,7 @@ recase
 riverpod
 rrule
 rxdart
+saslprep
 scip
 screenutil
 scrollables
