@@ -92,6 +92,7 @@ recase
 riverpod
 rrule
 rxdart
+sasl
 saslprep
 scip
 screenutil
