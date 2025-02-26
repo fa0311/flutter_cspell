@@ -223,6 +223,8 @@ iosversion
 iosworkflow
 ipas
 iproxy
+itcrash
+jitcrash
 jlink
 jplugins
 jskernel
