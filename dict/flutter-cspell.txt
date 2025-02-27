@@ -77,7 +77,6 @@ datagram
 ddcbootstrap
 ddckernel
 ddclibrary
-ddcmain
 ddslauncher
 deblur
 dehaze
@@ -106,6 +105,7 @@ dylib
 dylibs
 ecid
 edgesensor
+eglinfo
 eisu
 embedder
 enterexit
