@@ -368,6 +368,7 @@ rgbo
 righthalf
 romaji
 rrect
+rsuperellipse
 rubl
 screenshotting
 scrollbars
