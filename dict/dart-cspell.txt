@@ -2302,6 +2302,7 @@ unreachability
 unretained
 unsendable
 unsetenv
+unshadowed
 unsignaled
 unvalidated
 unwhiteout
