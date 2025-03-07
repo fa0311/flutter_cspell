@@ -249,6 +249,8 @@ lerp
 lessthan
 libtessellator
 lipo
+lldb
+lldbinit
 logcat
 lrsetb
 ltrb

@@ -34,6 +34,7 @@ dwds
 dynatrace
 earcut
 easyloading
+exif
 ffigen
 fgbg
 filex
@@ -71,6 +72,7 @@ msix
 newrelic
 numberpicker
 octo
+onesignal
 opentracing
 pana
 pdfrx
