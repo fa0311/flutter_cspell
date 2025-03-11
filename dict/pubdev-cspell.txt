@@ -55,7 +55,6 @@ getwidget
 gotrue
 hashcodes
 hotreloader
-iconsax
 inappwebview
 ipify
 iregexp
@@ -116,6 +115,7 @@ teamid
 testreport
 timeago
 toastification
+tostore
 udid
 unorm
 upgrader
