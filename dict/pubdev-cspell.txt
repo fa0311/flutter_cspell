@@ -55,6 +55,7 @@ getwidget
 gotrue
 hashcodes
 hotreloader
+iconsax
 inappwebview
 ipify
 iregexp
