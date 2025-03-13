@@ -437,8 +437,10 @@ dartmach
 dartmalloc
 dartos
 dartptrauth
+dartptrdiff
 dartquad
 dartregister
+dartrsize
 dartsec
 dartsegsz
 dartsig
@@ -1467,6 +1469,7 @@ nsisolatin
 nsitem
 nsjapanese
 nslocalized
+nslocking
 nslog
 nslogv
 nsmac
@@ -1480,7 +1483,6 @@ nsnextstepstring
 nsnon
 nsnot
 nsnotification
-nsnumber
 nsobject
 nsold
 nsopen
@@ -1506,6 +1508,7 @@ nsresolver
 nsround
 nsrun
 nsscanned
+nssecure
 nsselector
 nsset
 nsshared
@@ -1701,7 +1704,6 @@ pread
 preceeding
 precompilations
 precompiler
-precomposed
 preds
 prefs
 premultiply
@@ -2162,7 +2164,6 @@ strtouq
 strx
 strxfrm
 stylesheet
-subarray
 subexpression
 subkind
 sublist
