@@ -95,7 +95,6 @@ rrule
 rxdart
 sasl
 saslprep
-scip
 screenutil
 scrollables
 scrollview
