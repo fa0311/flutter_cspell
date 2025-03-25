@@ -9,3 +9,5 @@ Information is updated daily.
   - cspell dictionary for flutter.
 - _pubdev-cspell.txt_
   - cspell dictionary for pub.dev packages.
+
+This package uses [dart_cspell_cli](https://github.com/fa0311/dart_cspell_cli).
