@@ -84,7 +84,6 @@ petitparser
 pinput
 pointycastle
 polylabel
-polyline
 postgrest
 protoc
 pubspec

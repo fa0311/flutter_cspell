@@ -1691,7 +1691,6 @@ pmsymbol
 policyinfo
 policyqualifierinfo
 policyqualifiers
-polyline
 popcnt
 popen
 posixmode

@@ -334,7 +334,6 @@ plusminus
 pmove
 podfile
 podspec
-polyline
 prebuild
 precompiler
 prelayout
