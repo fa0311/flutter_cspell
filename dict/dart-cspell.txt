@@ -963,6 +963,7 @@ ifmt
 ifreg
 ifsock
 ifwht
+iids
 ilcompare
 illadr
 illopc
