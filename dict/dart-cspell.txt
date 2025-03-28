@@ -850,7 +850,6 @@ hbasic
 hbinary
 hbit
 hblock
-hbool
 hbounds
 hbreak
 hchar
