@@ -413,7 +413,6 @@ czwj
 daddr
 dapevent
 dartalarm
-dartaotruntime
 dartboolean
 dartclock
 dartdaddr
