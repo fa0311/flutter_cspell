@@ -69,6 +69,7 @@ mgrs
 mlkit
 mobx
 mocktail
+mqtt
 msix
 newrelic
 numberpicker
