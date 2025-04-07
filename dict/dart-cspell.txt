@@ -48,6 +48,7 @@ analyser
 angletype
 annotatable
 annotatables
+anslysis
 aobject
 apos
 applecsp
