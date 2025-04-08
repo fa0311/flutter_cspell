@@ -572,7 +572,6 @@ endianity
 endofdata
 endusershell
 entrycount
-enuum
 erand
 erfc
 erfcf

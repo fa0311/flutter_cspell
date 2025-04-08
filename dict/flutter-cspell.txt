@@ -402,6 +402,7 @@ subdirs
 sublocality
 subtag
 sumarizer
+superellipse
 svideo
 systrace
 tappable

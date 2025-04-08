@@ -89,7 +89,6 @@ postgrest
 protoc
 pubspec
 readmore
-recaptcha
 recase
 riverpod
 rrule
