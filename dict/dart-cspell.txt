@@ -401,7 +401,6 @@ csptype
 csrverify
 cssm
 cssmerr
-cssstyle
 cssurl
 cstring
 ctermid
@@ -913,9 +912,6 @@ hsubtract
 hsubtype
 hthis
 hthrow
-htmlbody
-htmldocument
-htmlelement
 htmliframe
 htmlscript
 htracer
