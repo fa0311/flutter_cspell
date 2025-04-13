@@ -108,7 +108,6 @@ bcopy
 bdata
 belement
 bervalue
-bezier
 bidi
 binaryen
 biquad
