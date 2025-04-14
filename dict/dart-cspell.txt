@@ -932,6 +932,7 @@ htype
 huerotate
 hvalidator
 hvisitor
+hwasan
 hyield
 hypot
 hypotf
