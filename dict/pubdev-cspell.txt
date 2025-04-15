@@ -110,7 +110,6 @@ sqlparser
 storekit
 supabase
 syncfusion
-teamid
 testreport
 timeago
 toastification
@@ -125,7 +124,6 @@ webdev
 webrtc
 webviewx
 widgetbook
-windowmanager
 wkwebview
 workiva
 workmanager
