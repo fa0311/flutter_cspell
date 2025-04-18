@@ -59,6 +59,7 @@ cmdline
 cocoapods
 codesign
 coep
+compatability
 convertion
 cornsilk
 countertops
