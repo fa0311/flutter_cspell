@@ -101,7 +101,6 @@ backping
 badstk
 barrierfsync
 basicconstraints
-bazel
 bbox
 bcmp
 bcopy
