@@ -61,14 +61,12 @@ codesign
 coep
 compatability
 convertion
-cornsilk
 countertops
 coverable
 cputypes
 creditcard
 cselector
 csred
-csscolors
 cuepoints
 cupertino
 dartdevc
@@ -133,7 +131,6 @@ fsfile
 fsreport
 fsstring
 fswriter
-gainsboro
 gamecontroller
 gapless
 gccount
@@ -355,7 +352,6 @@ rasterizations
 rasterizer
 readlink
 realmless
-rebecca
 reclip
 recordingtape
 rects

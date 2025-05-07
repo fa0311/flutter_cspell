@@ -116,7 +116,6 @@ udid
 unorm
 upgrader
 upower
-usabilla
 wakelock
 webdev
 webrtc
