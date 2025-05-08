@@ -1692,7 +1692,6 @@ posn
 postable
 postcondition
 powerset
-powersets
 powf
 pread
 preceeding
