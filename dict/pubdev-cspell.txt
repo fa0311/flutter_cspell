@@ -35,7 +35,6 @@ dynatrace
 earcut
 easyloading
 ffigen
-fgbg
 filex
 firestore
 fixnum
@@ -67,7 +66,6 @@ mgrs
 mlkit
 mobx
 mocktail
-msix
 newrelic
 numberpicker
 octo
@@ -98,7 +96,6 @@ scrollables
 scrollview
 sembast
 showcaseview
-signaturepad
 skeletonizer
 sockjs
 spinkit
