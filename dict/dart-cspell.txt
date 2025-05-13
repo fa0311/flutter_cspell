@@ -976,7 +976,6 @@ inequivalence
 inequivalences
 inferencing
 informations
-inhertance
 initgroups
 initprot
 initstate
