@@ -138,6 +138,7 @@ cacerts
 cacompromise
 caddr
 callbackfunction
+callees
 callerauth
 calloc
 callocfunction
@@ -478,6 +479,8 @@ demangle
 demangled
 denap
 denapholdasrt
+deopt
+deoptimizations
 deoptimize
 depfile
 derivekey
@@ -937,6 +940,7 @@ hypot
 hypotf
 ianachar
 ibchash
+icdata
 idbze
 iddescription
 ideclaration
@@ -1019,6 +1023,7 @@ iread
 irevent
 irgrp
 iroth
+irregexp
 irto
 iruserok
 irusr
@@ -1139,6 +1144,8 @@ jsnum
 jsnumber
 jsobject
 jsonify
+jsonpretty
+jsonview
 jspositive
 jspromise
 jsproxy
@@ -1282,6 +1289,7 @@ mcsize
 mday
 mdserror
 meetorslice
+megamorphic
 memalign
 memccpy
 memchr
@@ -1792,6 +1800,7 @@ renameatx
 renamer
 renamex
 renamings
+renderable
 renderbuffer
 repr
 resethand
@@ -2282,6 +2291,7 @@ uninstantiated
 uniquegen
 unlck
 unlinkat
+unlinkedcall
 unlockpt
 unlower
 unminify
@@ -2352,6 +2362,7 @@ visionos
 vmaddr
 vmax
 vmcommand
+vmconnect
 vmconstant
 vmenvironment
 vmevent
@@ -2359,17 +2370,23 @@ vmflag
 vmin
 vminternals
 vmlibrary
+vmmenu
 vmname
+vmpage
 vmplatform
 vmprogram
+vmrecorder
 vmref
+vmrepository
 vmservice
 vmsize
 vmstream
+vmtarget
 vmtest
 vmtimeline
 vmunit
 vmupdate
+vmview
 vnode
 volposmode
 volumn
@@ -2420,7 +2437,6 @@ worklet
 worklist
 workloop
 workmap
-writelin
 writeln
 writemask
 wrlck
