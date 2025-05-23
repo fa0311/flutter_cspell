@@ -120,6 +120,7 @@ fingerprinter
 fitbit
 flourescent
 fltenable
+focusability
 focusable
 forwardslash
 fsbyte
