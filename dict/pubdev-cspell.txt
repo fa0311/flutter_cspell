@@ -12,7 +12,6 @@ camerax
 chalkdart
 charcode
 chewie
-clevertap
 codegen
 colorpicker
 contextmenu
@@ -22,7 +21,6 @@ cupertino
 dartdoc
 dartx
 dartz
-datagrid
 datepicker
 dbus
 dcli
@@ -34,6 +32,7 @@ dwds
 dynatrace
 earcut
 easyloading
+exif
 ffigen
 fgbg
 filex
@@ -67,6 +66,7 @@ mgrs
 mlkit
 mobx
 mocktail
+mqtt
 msix
 newrelic
 numberpicker
