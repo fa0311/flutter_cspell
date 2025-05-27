@@ -21,6 +21,7 @@ cupertino
 dartdoc
 dartx
 dartz
+datagrid
 datepicker
 dbus
 dcli
@@ -111,7 +112,6 @@ syncfusion
 testreport
 timeago
 toastification
-tostore
 udid
 unorm
 upgrader

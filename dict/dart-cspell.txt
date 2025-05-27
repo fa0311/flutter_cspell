@@ -1285,6 +1285,7 @@ mblen
 mbstowcs
 mbtowc
 mcontext
+mcpserver
 mcsize
 mday
 mdserror
