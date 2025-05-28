@@ -2361,6 +2361,7 @@ vfork
 vfprintf
 vfscanf
 vhselect
+visibilty
 visionos
 vmaddr
 vmax

@@ -112,6 +112,7 @@ syncfusion
 testreport
 timeago
 toastification
+tostore
 udid
 unorm
 upgrader
