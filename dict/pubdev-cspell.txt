@@ -21,7 +21,6 @@ cupertino
 dartdoc
 dartx
 dartz
-datagrid
 datepicker
 dbus
 dcli
