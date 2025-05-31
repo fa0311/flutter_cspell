@@ -118,7 +118,6 @@ upgrader
 upower
 wakelock
 webdev
-webrtc
 webviewx
 widgetbook
 wkwebview
