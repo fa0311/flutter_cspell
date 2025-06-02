@@ -50,6 +50,7 @@ annotatable
 annotatables
 anslysis
 aobject
+aotfile
 apos
 applecsp
 applecspdl
