@@ -341,7 +341,6 @@ preroll
 printshop
 ptoggle
 pubspec
-pubspecs
 pwsh
 qnan
 qrcode

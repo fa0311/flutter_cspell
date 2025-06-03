@@ -1718,16 +1718,10 @@ promotability
 prty
 prvopc
 prvreg
-psdependency
 pselect
-psentry
-psenvironment
 pset
-psgit
-pshost
 psignal
 pskidentity
-psnode
 psort
 psource
 pspecified
