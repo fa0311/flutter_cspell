@@ -194,6 +194,7 @@ iosarch
 iosarchitecture
 iosarchive
 iosarchs
+iosasset
 ioscommand
 ioscontent
 ioscore
@@ -285,6 +286,7 @@ osapp
 osarchitecture
 osarchitectures
 osarchs
+osasset
 osblinking
 osbuild
 osbundle
@@ -399,6 +401,7 @@ strikethrough
 subdirs
 sublocality
 subtag
+subtarget
 sumarizer
 superellipse
 svideo
