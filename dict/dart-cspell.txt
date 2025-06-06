@@ -1769,6 +1769,7 @@ realdev
 reallocf
 reallocfunction
 realpath
+recordering
 recordtype
 recordtypes
 rects
