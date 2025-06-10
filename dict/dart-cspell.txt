@@ -863,6 +863,7 @@ hdcp
 hdivide
 headerversion
 heapsort
+hembedded
 hexit
 hexpression
 hforeign
