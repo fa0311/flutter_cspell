@@ -195,6 +195,7 @@ iosarchitecture
 iosarchive
 iosarchs
 ioscommand
+ioscompanion
 ioscontent
 ioscore
 iosdeploy
