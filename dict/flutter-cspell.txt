@@ -440,7 +440,6 @@ uiframe
 uimode
 uioverlay
 uioverlays
-uiscene
 uithread
 uiview
 uiwindow
