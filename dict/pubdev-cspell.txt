@@ -17,6 +17,7 @@ codegen
 colorpicker
 contextmenu
 crclib
+cronet
 csslib
 cupertino
 dartdoc
@@ -119,6 +120,5 @@ webviewx
 widgetbook
 wkwebview
 workiva
-workmanager
 xmlstream
 zxing
