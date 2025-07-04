@@ -26,6 +26,7 @@ dartz
 datepicker
 dbus
 dcli
+devicelocale
 diffutil
 dotenv
 dropzone
@@ -48,6 +49,7 @@ formz
 fpdart
 fwfh
 geolocator
+getwidget
 gotrue
 hashcodes
 hotreloader
