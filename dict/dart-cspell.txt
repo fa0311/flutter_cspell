@@ -1014,6 +1014,7 @@ iooverrides
 iopipeline
 iopol
 iosink
+iossimulator
 iostreamed
 ioversion
 ioweb
@@ -2249,6 +2250,7 @@ ttyname
 ttyslot
 tuplegroup
 tvos
+tvossimulator
 typebounds
 typedefaults
 tzname
@@ -2414,6 +2416,7 @@ wakeups
 wallclock
 walltime
 watchos
+watchossimulator
 wchar
 wcontinued
 wcoreflag
