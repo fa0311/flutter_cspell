@@ -4,6 +4,7 @@ appauth
 appsflyer
 audioplayers
 avfoundation
+beamer
 bech
 bidi
 bluez
