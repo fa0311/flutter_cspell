@@ -47,6 +47,7 @@ fluttertoast
 formz
 fpdart
 fwfh
+geoclue
 geolocator
 getwidget
 gotrue
