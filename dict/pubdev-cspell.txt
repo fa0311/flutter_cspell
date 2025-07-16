@@ -118,7 +118,6 @@ upgrader
 upower
 wakelock
 webdev
-webviewx
 widgetbook
 wkwebview
 workiva
