@@ -51,6 +51,7 @@ geoclue
 geolocator
 getwidget
 gotrue
+gsettings
 hashcodes
 hotreloader
 iconsax
