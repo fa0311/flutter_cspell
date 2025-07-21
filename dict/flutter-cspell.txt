@@ -237,7 +237,6 @@ jstarget
 junja
 justifyleft
 justifyright
-jvalidator
 kabaddi
 kbps
 keypress
