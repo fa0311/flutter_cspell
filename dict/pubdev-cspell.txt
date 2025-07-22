@@ -30,7 +30,6 @@ diffutil
 dotenv
 dropzone
 dwds
-dynatrace
 earcut
 easyloading
 exif
