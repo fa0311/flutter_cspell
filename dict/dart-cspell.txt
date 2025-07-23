@@ -712,6 +712,7 @@ fputc
 fputs
 fract
 fractalnoise
+frament
 fread
 freadlink
 freefunction
