@@ -123,4 +123,5 @@ wkwebview
 workiva
 workmanager
 xmlstream
+zmodem
 zxing
