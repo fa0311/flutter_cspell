@@ -48,7 +48,6 @@ fpdart
 fwfh
 geoclue
 geolocator
-getwidget
 gotrue
 gsettings
 hashcodes
