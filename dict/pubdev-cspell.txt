@@ -32,7 +32,6 @@ dropzone
 dwds
 earcut
 easyloading
-exif
 ffigen
 fgbg
 filex
