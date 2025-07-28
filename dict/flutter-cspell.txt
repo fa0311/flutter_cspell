@@ -210,6 +210,7 @@ iosengine
 iosenvironment
 iosfeature
 iosframework
+iosima
 iosinteractive
 iosinterface
 ioslaunch
@@ -226,6 +227,7 @@ iosworkflow
 ipas
 iproxy
 itcrash
+iview
 jitcrash
 jlink
 jplugins
@@ -257,8 +259,14 @@ lrsetb
 ltrb
 ltwh
 luci
+maad
+maads
+macompanion
+macontent
 macwindow
+mafriendly
 markunread
+masettings
 mdns
 microtask
 microtasks
