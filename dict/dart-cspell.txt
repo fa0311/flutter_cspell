@@ -549,6 +549,7 @@ dtyped
 duntyped
 dupfd
 dyld
+dylib
 eaccess
 eacute
 ecaes
@@ -1827,6 +1828,7 @@ romaji
 rotr
 roundf
 rparen
+rpath
 rpcerror
 rpcresponses
 rpmatch
@@ -2360,7 +2362,6 @@ vfork
 vfprintf
 vfscanf
 vhselect
-visibilty
 visionos
 vmaddr
 vmax
