@@ -55,7 +55,6 @@ iconsax
 inappwebview
 ipify
 iregexp
-irondash
 jsonwebtoken
 junitreport
 latlong
