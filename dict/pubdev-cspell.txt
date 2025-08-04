@@ -12,6 +12,7 @@ camerax
 chalkdart
 charcode
 chewie
+clevertap
 codegen
 colorpicker
 contextmenu
@@ -55,6 +56,7 @@ iconsax
 inappwebview
 ipify
 iregexp
+irondash
 jsonwebtoken
 junitreport
 latlong
