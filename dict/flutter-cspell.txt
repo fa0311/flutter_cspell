@@ -253,6 +253,7 @@ lessthan
 libtessellator
 lipo
 lldb
+lldbdebugger
 lldbinit
 logcat
 lrsetb
