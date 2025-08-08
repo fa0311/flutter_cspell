@@ -254,6 +254,7 @@ libtessellator
 lipo
 lldb
 lldbdebugger
+lldbdebugging
 lldbinit
 logcat
 lrsetb
