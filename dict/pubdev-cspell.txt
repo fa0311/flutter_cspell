@@ -38,6 +38,7 @@ fgbg
 filex
 firestore
 fixnum
+flagsmith
 flavorizr
 fluri
 flushbar
@@ -72,6 +73,7 @@ newrelic
 numberpicker
 octo
 onesignal
+onetrust
 opentracing
 pana
 pdfrx
