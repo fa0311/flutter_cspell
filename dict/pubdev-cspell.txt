@@ -116,6 +116,7 @@ tostore
 udid
 upgrader
 upower
+usabilla
 wakelock
 webdev
 widgetbook
