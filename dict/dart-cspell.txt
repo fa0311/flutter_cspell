@@ -4,6 +4,7 @@ accerr
 accessx
 accmode
 acladd
+aclass
 aclchange
 acldelete
 aclnot
@@ -45,6 +46,7 @@ alrmtype
 amap
 amsymbol
 analyser
+anative
 angletype
 annotatable
 annotatables
@@ -76,6 +78,7 @@ astc
 astcontent
 astlistener
 astring
+asubtype
 asyncio
 atanf
 atanh
@@ -108,7 +111,6 @@ bdata
 belement
 bervalue
 bidi
-binaryen
 biquad
 bitmask
 blankslate
@@ -180,6 +182,7 @@ cfarray
 cfattributed
 cfautorelease
 cfbag
+cfbangla
 cfbinary
 cfbit
 cfbookmark
@@ -196,6 +199,7 @@ cfcompare
 cfcomparison
 cfcopy
 cfcore
+cfdangi
 cfdata
 cfdate
 cfdictionary
@@ -206,6 +210,7 @@ cferror
 cffile
 cfget
 cfgregorian
+cfgujarati
 cfhash
 cfhebrew
 cfindex
@@ -213,15 +218,19 @@ cfindian
 cfislamic
 cfiso
 cfjapanese
+cfkannada
 cflocale
 cfmach
 cfmake
+cfmalayalam
+cfmarathi
 cfmessage
 cfmutable
 cfnot
 cfnotification
 cfnull
 cfnumber
+cfodia
 cfoption
 cfpersian
 cfplug
@@ -239,9 +248,12 @@ cfsocket
 cfstream
 cfstring
 cfswapped
+cftamil
+cftelugu
 cftime
 cftree
 cftype
+cfunction
 cfurladded
 cfurlapplication
 cfurlattribute
@@ -295,6 +307,8 @@ cfuuidbytes
 cfuuidcreate
 cfuuidget
 cfuuidref
+cfvietnamese
+cfvikram
 cfwrite
 cfxmlattribute
 cfxmlcreate
@@ -321,9 +335,6 @@ cgetset
 cgetstr
 cgetustr
 cgfloat
-cgpoint
-cgrect
-cgsize
 cgvector
 chacha
 chadevirtualization
@@ -416,6 +427,7 @@ dartboolean
 dartclock
 dartdaddr
 dartdev
+dartdevc
 dartdispatch
 dartdoc
 dartdocument
@@ -470,11 +482,13 @@ ddsrunner
 debugv
 decimalpoint
 decr
+dedup
 defaultable
 defaultstatus
 deflake
 deflaking
 deftypes
+deindent
 demangle
 demangled
 denap
@@ -487,6 +501,7 @@ derivekey
 descendents
 desrandom
 desx
+devc
 devfs
 devirtualization
 devname
@@ -505,7 +520,6 @@ disambiguator
 discardable
 discr
 diskio
-disp
 dispatchdatat
 dldata
 dldbhandle
@@ -548,6 +562,7 @@ dtmf
 dtyped
 duntyped
 dupfd
+duplocale
 dyld
 dylib
 eaccess
@@ -717,9 +732,11 @@ frament
 fread
 freadlink
 freefunction
+freelocale
 freopen
 frexp
 frexpf
+fromiterable
 fsblkcnt
 fscanf
 fsctl
@@ -949,11 +966,13 @@ iddescription
 ideclaration
 ideworkspace
 idlinkage
+idom
 idpfailure
 idresolution
 idrss
 idtype
 iexec
+iexpression
 ifblk
 ifchr
 ifdir
@@ -1188,6 +1207,7 @@ kcommon
 kconstructor
 kdebug
 kelement
+kevent
 keyattr
 keybag
 keyblob
@@ -1311,6 +1331,7 @@ memsz
 mergesort
 mersenne
 mesgq
+methoddeclaration
 methodtype
 mgfparams
 microtask
@@ -1357,7 +1378,6 @@ msgsnd
 mspi
 mtminfo
 multimap
-multipath
 multisample
 multiselectable
 multitest
@@ -1366,7 +1386,6 @@ mutexattr
 mypgrp
 namelist
 nanf
-nanos
 nanosleep
 nativefieldwrapperclass
 navigations
@@ -1378,6 +1397,7 @@ ndelay
 nearbyint
 nearbyintf
 nerr
+newlocale
 nextafter
 nextafterf
 nexttime
@@ -1394,6 +1414,7 @@ nocldstop
 nocldwait
 noctty
 nodefer
+nodeletebusy
 nodenap
 nodirect
 nodoc
@@ -1416,6 +1437,7 @@ nonunique
 noreturn
 nostitch
 notequal
+noti
 notype
 nrand
 nreloc
@@ -1477,7 +1499,6 @@ nsisolatin
 nsitem
 nsjapanese
 nslocalized
-nslocking
 nslog
 nslogv
 nsmac
@@ -1486,7 +1507,6 @@ nsmalloc
 nsmguard
 nsmultiple
 nsmutable
-nsnet
 nsnextstepstring
 nsnon
 nsnot
@@ -1505,7 +1525,6 @@ nsprogress
 nspromised
 nsproprietary
 nsprotocol
-nsquality
 nsrange
 nsreal
 nsreallocate
@@ -1618,6 +1637,7 @@ ofor
 ogeneric
 ogonek
 oheader
+okempty
 okwithcertmods
 okwithnewtime
 okwithoutfields
@@ -1682,7 +1702,6 @@ pcycles
 pdrequest
 penergy
 peofposmode
-perfetto
 permset
 perror
 pgid
@@ -1703,7 +1722,7 @@ posixmode
 posmode
 posn
 postable
-postcondition
+postorder
 powerset
 powf
 pread
@@ -1713,6 +1732,7 @@ precompiler
 preds
 prefs
 premultiply
+preorder
 preserveaspectratio
 println
 prio
@@ -1753,6 +1773,7 @@ qsort
 questionmark
 quic
 qura
+qwacvalidation
 radixsort
 radvisory
 raiseimp
@@ -1772,7 +1793,6 @@ realdev
 reallocf
 reallocfunction
 realpath
-recordering
 recordtype
 recordtypes
 rects
@@ -1828,7 +1848,6 @@ romaji
 rotr
 roundf
 rparen
-rpath
 rpcerror
 rpcresponses
 rpmatch
@@ -1853,7 +1872,6 @@ scalbnf
 scanf
 schar
 scriptable
-scrollbars
 scroller
 scrutinee
 scsv
@@ -1932,7 +1950,6 @@ setvbuf
 setwgroups
 sexpr
 sharandom
-shortable
 shrt
 sigabrt
 sigaction
@@ -2043,6 +2060,9 @@ srcset
 sref
 srgb
 srights
+ssacomputation
+ssaform
+ssaliveness
 sscanf
 sseconnection
 ssize
@@ -2122,6 +2142,7 @@ strcasecmp
 strcasestr
 strcat
 strchr
+strchrnul
 strcmp
 strcoll
 strcpy
@@ -2196,6 +2217,7 @@ synchronised
 syscall
 sysconf
 sysex
+systrace
 tablesize
 tagand
 tanf
@@ -2240,6 +2262,7 @@ tlsprotocol
 tlsv
 tmpnam
 tokenpresent
+tostring
 tphandle
 transcodekey
 transferextents
@@ -2301,6 +2324,7 @@ unlower
 unminify
 unmute
 unobserve
+unopt
 unpromoted
 unpublishing
 unranked
@@ -2319,6 +2343,7 @@ upgrader
 uquad
 uref
 urefs
+urland
 urlby
 urlcache
 urlcredential
@@ -2340,6 +2365,7 @@ urluser
 urlwith
 usec
 useconds
+uselocale
 userspace
 userspaceonuse
 usertramp
@@ -2353,6 +2379,7 @@ uuidstring
 uuidwith
 vaddr
 valloc
+valuee
 valuefier
 varargs
 varyings
@@ -2430,6 +2457,7 @@ wctrans
 wday
 webgl
 wexited
+wheretype
 wint
 withdsa
 withecdsa
