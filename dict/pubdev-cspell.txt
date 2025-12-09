@@ -110,6 +110,7 @@ scrollables
 scrollview
 searchfield
 sembast
+serverpod
 shadcn
 shamsi
 showcaseview
