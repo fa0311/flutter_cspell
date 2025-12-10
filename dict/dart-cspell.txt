@@ -1768,6 +1768,7 @@ pvrtc
 pwrite
 qaddr
 qcstatements
+qkey
 qlimit
 qsort
 questionmark
