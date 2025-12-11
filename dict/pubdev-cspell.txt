@@ -16,7 +16,6 @@ chewie
 codegen
 collapsable
 colorpicker
-constraintlayout
 cronet
 cropperx
 csslib
@@ -57,7 +56,6 @@ funvas
 gaimon
 geolocator
 getwidget
-gridview
 gsettings
 hashlib
 hexcolor

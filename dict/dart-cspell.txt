@@ -63,6 +63,7 @@ appleshare
 appletp
 applex
 applyable
+appplication
 aprefix
 aprimitive
 argb
@@ -412,6 +413,7 @@ csrverify
 cssm
 cssmerr
 cssurl
+cstack
 cstring
 ctermid
 ctype
@@ -499,6 +501,7 @@ deoptimize
 depfile
 derivekey
 descendents
+desciptor
 desrandom
 desx
 devc
@@ -723,6 +726,7 @@ fpathconf
 fpos
 fprintf
 fpunchhole
+fpuregs
 fpurge
 fputc
 fputs
@@ -960,6 +964,7 @@ hypot
 hypotf
 ianachar
 ibchash
+iccall
 icdata
 idbze
 iddescription
@@ -1253,6 +1258,7 @@ lengthtype
 lequal
 lgamma
 lgammaf
+libc
 libraryuri
 lielement
 lineptr
@@ -1361,6 +1367,7 @@ mmdd
 modf
 modff
 modulename
+monolitic
 morebottom
 moretop
 morpher
@@ -1803,6 +1810,7 @@ redoc
 referer
 reflectable
 reflectee
+regs
 regset
 rehandshake
 reindent
@@ -1863,6 +1871,7 @@ rvalue
 rwlock
 rwlockattr
 rwsession
+safepoint
 samplegroup
 sbrk
 scalb
@@ -2024,6 +2033,7 @@ sizeofcmds
 skewx
 skewy
 sleb
+smiable
 smime
 smimebad
 smimeemail
@@ -2221,6 +2231,7 @@ sysex
 systrace
 tablesize
 tagand
+tageneric
 tanf
 tanhf
 tapp
@@ -2326,6 +2337,7 @@ unminify
 unmute
 unobserve
 unopt
+unpoison
 unpromoted
 unpublishing
 unranked
@@ -2404,6 +2416,7 @@ vminternals
 vmlibrary
 vmmenu
 vmname
+vmoffsets
 vmpage
 vmplatform
 vmprogram
@@ -2692,6 +2705,7 @@ yzzw
 yzzx
 yzzy
 yzzz
+zerow
 zoomandpan
 zwjpictographic
 zwww
