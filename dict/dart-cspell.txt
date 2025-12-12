@@ -507,6 +507,7 @@ desx
 devc
 devfs
 devirtualization
+devirtualizion
 devname
 devoffset
 dgcall
