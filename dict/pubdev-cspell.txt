@@ -16,6 +16,7 @@ chewie
 codegen
 collapsable
 colorpicker
+constraintlayout
 cronet
 cropperx
 csslib
@@ -106,7 +107,6 @@ riverpod
 screenutil
 scrollables
 scrollview
-searchfield
 sembast
 serverpod
 shadcn
