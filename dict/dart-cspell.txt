@@ -351,7 +351,6 @@ iexpression
 iids
 ilcompare
 impls
-importability
 indeterm
 indexability
 inequivalence
