@@ -12,11 +12,11 @@ blurrycontainer
 callkit
 cbor
 charcode
+chatview
 chewie
 codegen
 collapsable
 colorpicker
-constraintlayout
 cronet
 cropperx
 csslib
