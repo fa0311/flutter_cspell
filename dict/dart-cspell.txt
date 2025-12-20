@@ -678,7 +678,6 @@ pbdescriptor
 pcoffset
 pcoffsets
 pids
-pkcs
 pltgot
 pltrelsz
 popcnt
