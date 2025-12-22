@@ -1,5 +1,4 @@
 ansicolor
-ansix
 appauth
 appcheck
 appinio
