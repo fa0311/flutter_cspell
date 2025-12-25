@@ -131,6 +131,7 @@ uikit
 unilink
 unzoom
 upgrader
+vyuh
 wakelock
 webcrypto
 webrtc
