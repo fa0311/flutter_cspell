@@ -49,7 +49,6 @@ fluro
 flushbar
 fluttertagger
 fluttertoast
-formz
 fpdart
 freerasp
 funvas
