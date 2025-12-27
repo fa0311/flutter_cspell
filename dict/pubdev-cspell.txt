@@ -23,7 +23,6 @@ cupertino
 darq
 dartx
 datagrid
-datawedge
 datepicker
 dcli
 debouncer
@@ -49,6 +48,7 @@ fluro
 flushbar
 fluttertagger
 fluttertoast
+formz
 fpdart
 freerasp
 funvas
