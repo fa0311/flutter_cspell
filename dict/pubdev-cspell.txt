@@ -118,6 +118,7 @@ sqlparser
 stac
 statemachine
 supabase
+swipeable
 syncfusion
 thumbnailer
 timeago
