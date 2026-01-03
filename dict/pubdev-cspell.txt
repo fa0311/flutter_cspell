@@ -66,7 +66,6 @@ kalender
 langchain
 libphonenumber
 libserialport
-linalg
 linkify
 lpinyin
 lucide
