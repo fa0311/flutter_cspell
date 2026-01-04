@@ -290,7 +290,6 @@ dsymutil
 duployan
 duru
 dwds
-dylib
 dylibs
 dyna
 dynalight
@@ -1039,7 +1038,6 @@ siemreap
 sigmar
 significand
 signika
-signup
 sigusr
 sigwinch
 siliguri

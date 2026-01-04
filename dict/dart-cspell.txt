@@ -45,7 +45,6 @@ bdata
 belement
 bidi
 biquad
-bitmask
 blankslate
 blit
 boolified
@@ -181,7 +180,6 @@ dtmf
 dtyped
 duntyped
 dyld
-dylib
 eacute
 edgemode
 embedder
@@ -878,7 +876,6 @@ unalias
 unaliased
 unawaited
 uncacheable
-uncategorized
 uncomputed
 unconfigurable
 undefer
