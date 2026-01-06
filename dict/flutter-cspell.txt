@@ -30,6 +30,7 @@ akaya
 akebono
 akronim
 akshar
+akuru
 aladin
 alata
 alatsi
@@ -53,6 +54,7 @@ amethysta
 amiko
 amiri
 amita
+ancizar
 andada
 andika
 androidx
@@ -82,7 +84,9 @@ arrowtriangle
 artifika
 arya
 asar
+asimovian
 asister
+asta
 astloch
 asul
 atext
@@ -102,6 +106,7 @@ azeret
 babylonica
 bacasime
 backquote
+badeen
 bahiana
 bahianita
 bakbak
@@ -142,6 +147,7 @@ bloodtype
 bokor
 boku
 bolden
+boldonse
 boogaloo
 bookletter
 borderless
@@ -158,6 +164,7 @@ buenard
 buginese
 buhid
 butcherman
+bytesized
 caladea
 calistoga
 calligraffitti
@@ -179,6 +186,7 @@ carian
 carlito
 carme
 carrois
+cascadia
 castoro
 catmull
 ccompiler
@@ -221,6 +229,7 @@ compatability
 convertion
 corben
 corinthia
+cossette
 countertops
 cousine
 coustard
@@ -280,6 +289,7 @@ dokdo
 domine
 doppio
 dosis
+doto
 dottedline
 dottedunderline
 doulaise
@@ -309,6 +319,7 @@ englebert
 enriqueta
 enterexit
 ephesis
+epunda
 ewert
 exclam
 exclamationmark
@@ -391,6 +402,7 @@ gentium
 geologica
 geostar
 germania
+gidole
 gidugu
 giftcard
 giga
@@ -470,9 +482,12 @@ hslcolor
 hsvcolor
 htmlstring
 hubballi
+hubot
+huninn
 hvac
 hyeon
 hyperlegible
+iansui
 ibarra
 icecream
 iconify
@@ -556,6 +571,7 @@ jaini
 jaldi
 jamjuree
 jaro
+jguides
 jian
 jitcrash
 jlink
@@ -589,6 +605,7 @@ kameron
 kanadaka
 kanit
 kantumruy
+kapakana
 karantina
 katibeh
 kaushan
@@ -607,6 +624,7 @@ khitan
 khojki
 khudawadi
 khula
+khung
 kikakui
 kirang
 kitesurfing
@@ -650,6 +668,7 @@ lepcha
 lerp
 lessthan
 lexend
+libertinus
 libtessellator
 lijeva
 lilita
@@ -670,6 +689,7 @@ loopet
 lrsetb
 ltrb
 ltwh
+lubrifont
 luci
 lugrasimo
 lumanosimo
@@ -713,6 +733,8 @@ marmelad
 maru
 masaram
 masettings
+matangi
+matemasie
 mayek
 mdisplay
 mdns
@@ -722,6 +744,7 @@ medula
 meera
 meetei
 meie
+menbere
 mende
 merienda
 meroitic
@@ -743,11 +766,13 @@ moda
 modak
 moderna
 moderno
+moderustic
 mogra
 molengo
 molle
 monda
 monofett
+monomakh
 monoton
 montaga
 montez
@@ -767,6 +792,7 @@ murecho
 museo
 myeongjo
 mynerve
+mysuru
 myung
 nabla
 nagri
@@ -776,6 +802,7 @@ nanum
 narnoor
 naskh
 nastaliq
+nata
 nautigal
 neohellenic
 neonderthaw
@@ -801,6 +828,7 @@ nowy
 nsapplication
 nsobject
 nsprincipal
+ntext
 numans
 numpad
 nunito
@@ -871,7 +899,9 @@ pahawh
 palmyrene
 pano
 paperplane
+parastoo
 parisienne
+parkinsans
 passero
 pasteable
 pattaya
@@ -888,6 +918,7 @@ petch
 petemoss
 petrona
 phags
+phetsarath
 philomene
 phonelink
 phudu
@@ -905,12 +936,15 @@ playpause
 playwrite
 plusminus
 pmove
+pochaevsk
 podfile
 podkova
 podspec
 poetsen
 poltawski
 pompiere
+ponnala
+ponomar
 pontano
 potta
 ppid
@@ -1004,6 +1038,8 @@ ruwudu
 sahitya
 saira
 sancreek
+sankofa
+sansation
 sansita
 santepheap
 sarabun
@@ -1024,6 +1060,8 @@ sdkversion
 sedgwick
 selectables
 sevillana
+sguides
+shafarik
 shalimar
 shantell
 sharada
@@ -1047,6 +1085,7 @@ simonetta
 sinhala
 sintony
 sirin
+sirivennela
 sixtyfour
 siyaq
 skia
@@ -1087,13 +1126,13 @@ streetview
 strikethrough
 subdirs
 sublocality
-subrayada
 subtag
 subtarget
 sugiyama
 sumana
 sumarizer
 sunshiney
+sunuwar
 superellipse
 supermercado
 suranna
@@ -1104,6 +1143,7 @@ syloti
 systrace
 syuku
 tagbanwa
+tagesschrift
 tajawal
 takri
 tamma
@@ -1112,6 +1152,7 @@ tangsa
 tangut
 tappable
 taprom
+tasa
 tauri
 taviraj
 tdur
@@ -1125,6 +1166,7 @@ tesselator
 tessellator
 textable
 textdirection
+texte
 textformat
 textsms
 texturina
@@ -1145,12 +1187,15 @@ timelapse
 timmana
 tinos
 tirhuta
+tirra
 titillium
+todhri
 toggleable
 tokumin
 tophalf
 trackpad
 trianglepath
+triodion
 trirong
 trispace
 trocchi
@@ -1162,6 +1207,7 @@ tryjob
 trykker
 tspan
 tsukimi
+tuffy
 tuka
 tulpen
 tuningfork
@@ -1236,10 +1282,12 @@ warang
 warnes
 watchos
 wavefont
+wdxl
 webp
 wechat
 wellfleet
 whatshot
+winky
 writeln
 xanh
 xcconfig
