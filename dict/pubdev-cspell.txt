@@ -53,6 +53,7 @@ freerasp
 fuzzywuzzy
 fwfh
 gaimon
+geolocator
 getwidget
 hashlib
 hexcolor
