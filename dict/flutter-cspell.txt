@@ -1013,6 +1013,7 @@ rgba
 rgbo
 ribeye
 righthalf
+riscv
 roboto
 rockn
 rohingya

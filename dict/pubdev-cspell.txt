@@ -8,6 +8,7 @@ audioplayers
 beamer
 blurhash
 blurrycontainer
+bounceable
 callkit
 charcode
 chatview
@@ -50,6 +51,7 @@ fluttertoast
 formz
 fpdart
 freerasp
+funvas
 fuzzywuzzy
 fwfh
 gaimon
