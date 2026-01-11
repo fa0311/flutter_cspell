@@ -127,6 +127,7 @@ sqflite
 sqlcipher
 sqlparser
 stac
+statemachine
 supabase
 swipable
 swipeable
@@ -142,6 +143,7 @@ uikit
 unicons
 unilink
 upgrader
+vyuh
 wakelock
 webcrypto
 webrtc
