@@ -612,7 +612,6 @@ nodoc
 noexn
 noextern
 nonced
-nonconstant
 nonfinalized
 nonfunction
 nonobvious
