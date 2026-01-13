@@ -559,7 +559,6 @@ loclistx
 loggable
 lowlink
 lparen
-lrumap
 lsan
 lsquare
 ltrb

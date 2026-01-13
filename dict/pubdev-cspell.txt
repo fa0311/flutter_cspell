@@ -127,7 +127,6 @@ soloud
 spinkit
 sqflite
 sqlcipher
-sqlparser
 stac
 statemachine
 supabase
