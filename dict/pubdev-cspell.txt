@@ -140,7 +140,6 @@ toastification
 tostore
 typewritertext
 udid
-uikit
 unicons
 unilink
 upgrader
