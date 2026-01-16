@@ -1,5 +1,6 @@
 ansicolor
 appauth
+appcheck
 appinio
 applovin
 appsflyer
@@ -65,7 +66,6 @@ hugeicons
 iconsax
 ionicons
 ipify
-jitsi
 jsonwebtoken
 kalender
 langchain
