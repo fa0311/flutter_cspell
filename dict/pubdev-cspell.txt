@@ -85,6 +85,7 @@ mobx
 mockingjay
 mocktail
 mqtt
+msix
 numberpicker
 objectbox
 octo
@@ -99,7 +100,6 @@ pocketbase
 postgrest
 posthog
 powersync
-quickalert
 readmore
 rebuilder
 recase
@@ -109,7 +109,6 @@ reorderables
 rflutter
 rinf
 riverpod
-salomon
 screenutil
 scrollables
 scrollview
@@ -145,6 +144,7 @@ udid
 unicons
 unilink
 upgrader
+vyuh
 wakelock
 webcrypto
 webrtc

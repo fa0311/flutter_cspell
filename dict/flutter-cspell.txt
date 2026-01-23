@@ -4,7 +4,6 @@ abhaya
 aboreto
 abril
 abyssinica
-accessiblity
 aclonica
 activatable
 adamina
@@ -50,6 +49,7 @@ allura
 almarai
 almendra
 amarante
+amarna
 amatic
 amethysta
 amiko
@@ -117,6 +117,7 @@ bamum
 bangla
 banna
 barriecito
+bartle
 baskervville
 bassa
 bastarda
@@ -468,6 +469,7 @@ haviland
 heavyrain
 hedvig
 heebo
+hegarty
 henny
 hentaigana
 hepta
@@ -617,6 +619,7 @@ kayah
 kbps
 kdam
 keania
+kedebideri
 kenia
 keypress
 khand
@@ -672,6 +675,7 @@ lexend
 libertinus
 libtessellator
 lijeva
+lilex
 lilita
 limbu
 linefont
@@ -771,6 +775,7 @@ moderustic
 mogra
 molengo
 molle
+momo
 monda
 monofett
 monomakh
@@ -1060,6 +1065,7 @@ sdkoption
 sdkroot
 sdkversion
 sedgwick
+sekuya
 selectables
 sevillana
 sguides
