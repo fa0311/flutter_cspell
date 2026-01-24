@@ -13,7 +13,6 @@ bounceable
 callkit
 camerawesome
 charcode
-chatview
 chewie
 codegen
 colorpicker
