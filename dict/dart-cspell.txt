@@ -94,6 +94,7 @@ closurized
 cmdsize
 coarray
 cobject
+codedirectory
 codegen
 colorspace
 combinators
@@ -106,6 +107,8 @@ cputype
 creg
 cronet
 crsel
+csmagic
+csslot
 cssurl
 cstack
 ctype
@@ -190,6 +193,9 @@ dtmf
 dtyped
 duntyped
 dyld
+dyldlink
+dylibs
+dysymtab
 eacute
 edgemode
 embedder
@@ -241,7 +247,9 @@ fori
 fpreg
 fpregister
 fpregisters
+fpreturn
 fpuregs
+fpvalues
 fractalnoise
 frament
 fromiterable
@@ -266,6 +274,7 @@ habs
 hadd
 hanja
 harray
+hashtype
 hawait
 hbasic
 hbinary
@@ -551,6 +560,7 @@ libc
 libraryuri
 lielement
 lineptr
+linkedit
 locationbar
 loclist
 loclists
@@ -605,6 +615,7 @@ nativefieldwrapperclass
 navigations
 nbsp
 nbytes
+nchars
 ncmds
 nnbd
 nodoc
@@ -618,6 +629,7 @@ noreturn
 nostitch
 notequal
 notype
+noundefs
 nreloc
 nsarray
 nscached
@@ -859,6 +871,11 @@ superinterface
 superinterfaces
 supernode
 supertypes
+supportscodelimit
+supportsexecseg
+supportsnone
+supportsscatter
+supportsteamid
 suspendable
 sxtb
 sxth
@@ -958,6 +975,7 @@ valuee
 valuefier
 varargs
 varyings
+vloc
 vmaddr
 vmax
 vmcommand
@@ -1218,8 +1236,10 @@ yzzw
 yzzx
 yzzy
 yzzz
+zerofill
 zerow
 zoomandpan
+zstring
 zwjpictographic
 zwww
 zwwx
