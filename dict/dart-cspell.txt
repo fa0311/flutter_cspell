@@ -30,7 +30,6 @@ applyable
 appplication
 aprefix
 aprimitive
-argb
 asan
 astc
 astcontent
@@ -571,7 +570,6 @@ lowlink
 lparen
 lsan
 lsquare
-ltrb
 luminancetoalpha
 lvalue
 macptr
@@ -753,7 +751,6 @@ repr
 retval
 reusage
 rgba
-rgbo
 riscv
 rnglist
 rnglists

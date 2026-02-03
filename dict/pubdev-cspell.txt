@@ -4,6 +4,7 @@ appcheck
 appinio
 applovin
 appsflyer
+appwrite
 arkit
 audioplayers
 beamer
@@ -74,6 +75,7 @@ langchain
 libphonenumber
 libserialport
 linkify
+livekit
 lpinyin
 lucide
 mapkit
@@ -98,7 +100,6 @@ petitparser
 pinput
 pocketbase
 postgrest
-posthog
 powersync
 readmore
 rebuilder
