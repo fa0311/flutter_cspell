@@ -18,6 +18,7 @@ alpn
 amap
 analyser
 anative
+andnot
 andw
 angletype
 annotatable
@@ -53,6 +54,7 @@ bics
 bicw
 bidi
 biquad
+bitselect
 blankslate
 blit
 boolified
@@ -1166,7 +1168,6 @@ xzzw
 xzzx
 xzzy
 xzzz
-yamls
 yoffset
 yself
 ywww
