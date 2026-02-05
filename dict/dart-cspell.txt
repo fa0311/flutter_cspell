@@ -160,6 +160,7 @@ devirtualizion
 dgcall
 dgsend
 diagnosticable
+diasllowed
 dindex
 dirtify
 dirtifying
@@ -709,6 +710,8 @@ pcoffsets
 pids
 pltgot
 pltrelsz
+pmax
+pmin
 popcnt
 postable
 postorder

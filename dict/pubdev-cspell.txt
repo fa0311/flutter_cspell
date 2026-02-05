@@ -69,6 +69,7 @@ iconsax
 inappwebview
 ionicons
 ipify
+jaspr
 jsonwebtoken
 kalender
 langchain
@@ -144,7 +145,6 @@ udid
 unicons
 unilink
 upgrader
-vyuh
 wakelock
 webcrypto
 webrtc
