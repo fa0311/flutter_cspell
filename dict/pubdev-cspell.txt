@@ -127,7 +127,6 @@ siri
 skeletonizer
 solidart
 soloud
-spinkit
 sqflite
 sqlcipher
 stac
