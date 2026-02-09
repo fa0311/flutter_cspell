@@ -743,6 +743,8 @@ matemasie
 mayek
 mdisplay
 mdns
+mdnsdevice
+mdnsobservation
 meddon
 medefaidrin
 medula
