@@ -702,6 +702,7 @@ owriter
 paddr
 parameterf
 parameteri
+paritition
 patchup
 pathspecs
 pbdescriptor
