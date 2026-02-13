@@ -10,7 +10,6 @@ audioplayers
 beamer
 blurhash
 blurrycontainer
-bounceable
 callkit
 camerawesome
 charcode
