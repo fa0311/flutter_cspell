@@ -51,6 +51,7 @@ flushbar
 flutterfire
 fluttertoast
 formz
+forui
 fpdart
 freerasp
 fuzzywuzzy
