@@ -92,6 +92,7 @@ numberpicker
 objectbox
 octo
 oktoast
+openfoodfacts
 pana
 pdfrx
 pdfview
