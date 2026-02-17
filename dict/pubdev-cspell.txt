@@ -21,7 +21,6 @@ cronet
 csslib
 cupertino
 darq
-dartdoc
 dartx
 datagrid
 datepicker
@@ -109,6 +108,7 @@ reflectable
 reorderable
 reorderables
 rflutter
+rhttp
 rinf
 riverpod
 screenutil
