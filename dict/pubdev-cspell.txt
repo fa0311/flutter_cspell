@@ -2,16 +2,16 @@ ansicolor
 appauth
 appcheck
 appinio
-applovin
-appsflyer
 appwrite
 arkit
 audioplayers
 beamer
 blurhash
 blurrycontainer
+bounceable
 callkit
 camerawesome
+cbor
 charcode
 chewie
 codegen
@@ -34,9 +34,7 @@ displaymode
 dlibphonenumber
 dotenv
 easyloading
-exif
 ffigen
-fgbg
 filesize
 filex
 fimber
@@ -53,6 +51,7 @@ formz
 forui
 fpdart
 freerasp
+funvas
 fuzzywuzzy
 fwfh
 gaimon
@@ -65,7 +64,6 @@ hotreload
 hotreloader
 hugeicons
 iconsax
-inappwebview
 ionicons
 ipify
 jaspr
@@ -73,14 +71,15 @@ jsonwebtoken
 kalender
 langchain
 libphonenumber
-libserialport
 linkify
 livekit
+loadmore
 lpinyin
 lucide
 mapkit
 maplibre
 marqueer
+matomo
 mlkit
 mobx
 mockingjay
@@ -95,7 +94,6 @@ openfoodfacts
 pana
 pdfrx
 pdfview
-pdfviewer
 petitparser
 pinput
 pocketbase
@@ -109,7 +107,6 @@ reorderable
 reorderables
 rflutter
 rhttp
-rinf
 riverpod
 screenutil
 scrollables
@@ -126,6 +123,7 @@ siri
 skeletonizer
 solidart
 soloud
+spinkit
 sqflite
 sqlcipher
 stac
