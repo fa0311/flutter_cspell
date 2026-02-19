@@ -943,6 +943,7 @@ playhead
 playpause
 playwrite
 plusminus
+pminstructions
 pmove
 pochaevsk
 podfile
