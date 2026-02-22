@@ -110,7 +110,6 @@ reorderables
 rflutter
 rinf
 riverpod
-salomon
 screenutil
 scrollables
 scrollview
