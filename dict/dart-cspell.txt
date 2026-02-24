@@ -510,6 +510,7 @@ jsonpretty
 jsonview
 jspositive
 jspromise
+jsproperty
 jsproxy
 jsrange
 jsreg

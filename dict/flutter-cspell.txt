@@ -1090,7 +1090,6 @@ signika
 sigusr
 sigwinch
 siliguri
-simct
 simctl
 simonetta
 sinhala
