@@ -35,6 +35,7 @@ dlibphonenumber
 dotenv
 easyloading
 ffigen
+filepicker
 filesize
 fimber
 firestore
