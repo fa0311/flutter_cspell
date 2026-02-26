@@ -102,7 +102,6 @@ postgrest
 posthog
 powersync
 pubspec
-quickalert
 readmore
 rebuilder
 recase
@@ -144,7 +143,6 @@ toastification
 tostore
 typewritertext
 udid
-uikit
 unicons
 unilink
 upgrader
