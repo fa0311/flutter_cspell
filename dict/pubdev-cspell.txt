@@ -97,7 +97,6 @@ pdfview
 petitparser
 pinput
 pocketbase
-pointycastle
 postgrest
 posthog
 powersync
