@@ -20,7 +20,6 @@ cronet
 csslib
 cupertino
 darq
-dartdoc
 dartx
 datagrid
 datepicker
@@ -83,7 +82,6 @@ mlkit
 mobx
 mockingjay
 mocktail
-mqtt
 msix
 numberpicker
 nylo
@@ -95,7 +93,6 @@ pana
 pdfrx
 pdfview
 petitparser
-pinput
 pocketbase
 postgrest
 posthog

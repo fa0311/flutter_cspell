@@ -475,6 +475,7 @@ jsexported
 jsexpression
 jsextendable
 jsextension
+jsextern
 jsfirst
 jsfixed
 jsfloat
