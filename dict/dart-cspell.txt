@@ -158,7 +158,6 @@ devc
 devfs
 devirtualization
 devirtualizion
-dfspreorder
 dgcall
 dgsend
 diagnosticable
@@ -398,7 +397,6 @@ intrinsified
 intrinsifier
 introspector
 ints
-invokable
 ioexception
 ioextension
 iomodular

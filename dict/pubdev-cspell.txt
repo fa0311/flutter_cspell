@@ -97,7 +97,6 @@ petitparser
 pinput
 pocketbase
 postgrest
-posthog
 powersync
 pubspec
 readmore
