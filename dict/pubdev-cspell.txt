@@ -70,10 +70,10 @@ ionicons
 ipify
 jaspr
 jsonwebtoken
-kalender
 langchain
 libphonenumber
 linkify
+livekit
 lpinyin
 lucide
 maplibre

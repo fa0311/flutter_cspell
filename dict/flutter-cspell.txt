@@ -221,6 +221,7 @@ circlepath
 cisystem
 citi
 cmdline
+cocoapod
 cocoapods
 codesign
 codystar
