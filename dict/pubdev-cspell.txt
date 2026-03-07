@@ -71,6 +71,7 @@ ipify
 jaspr
 jsonwebtoken
 langchain
+leancode
 libphonenumber
 linkify
 livekit
