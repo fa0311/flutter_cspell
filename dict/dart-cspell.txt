@@ -243,6 +243,7 @@ finalizable
 finalizer
 finalizers
 fixnum
+fldr
 fmod
 fontfaces
 foreignfetch
@@ -256,6 +257,7 @@ fpvalues
 fractalnoise
 frament
 fromiterable
+fstr
 funs
 futureor
 gamepads
@@ -397,6 +399,7 @@ intrinsified
 intrinsifier
 introspector
 ints
+invokable
 ioexception
 ioextension
 iomodular
@@ -578,6 +581,7 @@ lsquare
 luminancetoalpha
 lvalue
 macptr
+madd
 maplet
 markerunits
 maxprot
