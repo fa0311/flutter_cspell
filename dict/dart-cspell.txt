@@ -183,6 +183,7 @@ dsend
 dsetindex
 dsym
 dtdclient
+dtdconnection
 dtdevent
 dtdimpl
 dtdresponse
@@ -986,6 +987,7 @@ varyings
 vloc
 vmaddr
 vmax
+vmbackend
 vmcommand
 vmconnect
 vmconstant
