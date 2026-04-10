@@ -7,7 +7,7 @@ import 'package:pub_api_client/pub_api_client.dart';
 
 Future<T> retryWithExponentialBackoff<T>(
   Future<T> Function() operation, {
-  int maxRetries = 5,
+  int maxRetries = 10,
   int initialDelayMs = 500,
 }) async {
   final retry = List.generate(
