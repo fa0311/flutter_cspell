@@ -33,6 +33,15 @@ Future<List<T>> syncFutureList<T>(List<Future<T> Function()> operations) async {
   return results;
 }
 
+const publishers = [
+  'flutter.dev',
+  'dart.dev',
+  'material.io',
+  'firebase.google.com',
+  'google.dev',
+  'tools.dart.dev ',
+];
+
 void main(List<String> arguments) async {
   final parser = ArgParser();
   parser.addOption('output', abbr: 'o');
@@ -42,7 +51,20 @@ void main(List<String> arguments) async {
 
   final client = PubClient();
   final res = await syncFutureList([
-    for (final i in List.generate(100, (index) => index))
+    () => retryWithExponentialBackoff(() async {
+          print('Fetching flutter favorites');
+          return await client.fetchFlutterFavorites();
+        }),
+    for (final publisher in publishers)
+      () async {
+        print('Fetching packages for publisher $publisher');
+        final res = await retryWithExponentialBackoff(() async {
+          return await client.fetchPublisherPackages(publisher);
+        });
+        await Future.delayed(Duration(milliseconds: 200));
+        return res.map((p) => p.package).toList();
+      },
+    for (final i in List.generate(11, (index) => index))
       () async {
         print('Fetching page $i');
         final res = await retryWithExponentialBackoff(() async {
@@ -53,11 +75,11 @@ void main(List<String> arguments) async {
           );
         });
         await Future.delayed(Duration(milliseconds: 200));
-        return res;
+        return res.packages.map((p) => p.package).toList();
       }
   ]);
 
-  final names = res.expand((r) => r.packages).map((p) => p.package).toList();
+  final names = res.expand((r) => r).toList();
 
   final diff = normalize(names).toSet();
 
