@@ -377,6 +377,7 @@ idbze
 ideclaration
 ideworkspace
 idom
+idzone
 iids
 ilcompare
 impls
