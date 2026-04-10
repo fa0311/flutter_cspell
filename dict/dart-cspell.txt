@@ -32,6 +32,7 @@ appplication
 aprefix
 aprimitive
 asan
+asrv
 astc
 astcontent
 astlistener
@@ -111,7 +112,6 @@ crsel
 csmagic
 csslot
 cssurl
-cstack
 ctype
 cupertino
 customizer
@@ -258,6 +258,8 @@ fpvalues
 fractalnoise
 frament
 fromiterable
+fsfile
+fsfiles
 fstr
 funs
 futureor
@@ -375,7 +377,6 @@ idbze
 ideclaration
 ideworkspace
 idom
-iexpression
 iids
 ilcompare
 impls
@@ -420,6 +421,7 @@ irregexp
 irto
 irwriter
 itype
+ivariable
 ixusr
 jbyte
 jclass
@@ -494,6 +496,8 @@ jsinteger
 jsinterceptor
 jsinterop
 jsinvocation
+jsiterable
+jsiterator
 jsjava
 jsmethods
 jsmodule
@@ -578,7 +582,9 @@ loggable
 lowlink
 lparen
 lsan
+lslv
 lsquare
+lsrv
 luminancetoalpha
 lvalue
 macptr
@@ -895,7 +901,6 @@ symtab
 synchronised
 sysex
 systrace
-tageneric
 tapp
 tbnz
 tbscertificate
@@ -991,6 +996,7 @@ vmbackend
 vmcommand
 vmconnect
 vmconstant
+vmdevelopment
 vmenvironment
 vmevent
 vmflag

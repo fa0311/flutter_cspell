@@ -224,6 +224,7 @@ cmdline
 cocoapod
 cocoapods
 codesign
+codesigning
 codystar
 coep
 coiny
@@ -745,8 +746,6 @@ matemasie
 mayek
 mdisplay
 mdns
-mdnsdevice
-mdnsobservation
 meddon
 medefaidrin
 medula
@@ -860,6 +859,7 @@ oranienbaum
 orbitron
 orelega
 orienta
+osaccessible
 osapp
 osarchitecture
 osarchitectures
@@ -1015,7 +1015,6 @@ reem
 reenie
 rejang
 relayout
-reorderable
 reparent
 resampler
 respira
@@ -1308,6 +1307,7 @@ xanh
 xcconfig
 xcdevice
 xcframework
+xcframeworks
 xcresult
 xcrun
 xfile
