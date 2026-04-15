@@ -49,6 +49,7 @@ sqflite
 storekit
 timeago
 treeview
+wakelock
 webcrypto
 webdev
 widgetbook
