@@ -500,7 +500,6 @@ jsinvocation
 jsiterable
 jsiterator
 jsjava
-jsmethods
 jsmodule
 jsmodules
 jsmutable
@@ -609,6 +608,7 @@ mlformatter
 mline
 mmap
 mmdd
+modularly
 modulename
 morebottom
 moretop
