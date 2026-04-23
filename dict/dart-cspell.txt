@@ -26,6 +26,7 @@ annotatables
 anslysis
 aobject
 aotfile
+apicalled
 apos
 applyable
 appplication
@@ -196,6 +197,7 @@ dtlsv
 dtmf
 dtyped
 duntyped
+dwds
 dyld
 dyldlink
 dylibs
@@ -1038,6 +1040,7 @@ wallclock
 watchos
 watchossimulator
 wchar
+webdev
 webgl
 wheretype
 worklet
