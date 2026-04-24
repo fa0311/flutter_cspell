@@ -72,7 +72,6 @@ bytecodes
 callees
 callstacks
 cancelation
-canonicalizer
 cany
 caron
 carray
@@ -972,7 +971,6 @@ unshadowed
 unsignaled
 unvalidated
 unwrapper
-updateable
 upgrader
 urland
 urlcache
