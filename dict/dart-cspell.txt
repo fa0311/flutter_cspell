@@ -109,7 +109,11 @@ cputype
 creg
 cronet
 crsel
+csel
+csinc
+csinv
 csmagic
+csneg
 csslot
 cssurl
 ctype
@@ -633,6 +637,7 @@ nbsp
 nbytes
 nchars
 ncmds
+negs
 nnbd
 nodoc
 noexn
@@ -797,6 +802,7 @@ sbfm
 sbfx
 scroller
 scrutinee
+scvtf
 sdata
 sdch
 sectname
