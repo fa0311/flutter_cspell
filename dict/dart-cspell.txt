@@ -252,6 +252,7 @@ finalizers
 fixnum
 fldr
 fmod
+fmov
 fontfaces
 foreignfetch
 fori
