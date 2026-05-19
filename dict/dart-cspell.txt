@@ -554,6 +554,7 @@ jswrapped
 jswrapper
 jtype
 junja
+kbps
 kclass
 kclosed
 kcommon
