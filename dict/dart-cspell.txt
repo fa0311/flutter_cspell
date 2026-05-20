@@ -635,6 +635,7 @@ munmap
 namelist
 nativefieldwrapperclass
 navigations
+nbits
 nbsp
 nbytes
 nchars
