@@ -376,7 +376,6 @@ fscontent
 fsexception
 fsfile
 fsreport
-fsshader
 fsstring
 fswriter
 fuemen
