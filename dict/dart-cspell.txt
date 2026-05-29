@@ -765,6 +765,7 @@ redirections
 referer
 reflectable
 reflectee
+regen
 regs
 rehandshake
 reindent
