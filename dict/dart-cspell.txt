@@ -998,6 +998,7 @@ uxth
 uxtw
 uxtx
 vaddr
+validatable
 valuee
 valuefier
 varargs
