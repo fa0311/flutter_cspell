@@ -222,6 +222,7 @@ exsel
 extention
 falsey
 fasta
+fastboot
 feblend
 fecolor
 fecolormatrix
