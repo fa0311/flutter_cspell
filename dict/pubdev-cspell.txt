@@ -2,7 +2,6 @@ applovin
 avfoundation
 beamer
 bidmachine
-blurhash
 camerax
 chartboost
 codegen
@@ -30,7 +29,6 @@ mintegral
 mobx
 mocktail
 moloco
-msix
 mytarget
 pageloader
 pana

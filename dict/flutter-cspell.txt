@@ -255,7 +255,6 @@ dartdevc
 dartlang
 dartpad
 darumadrop
-datagram
 ddcbootstrap
 ddckernel
 ddclibrary
