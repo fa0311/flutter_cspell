@@ -55,6 +55,7 @@ bfxil
 bics
 bicw
 bidi
+binaryen
 biquad
 bitselect
 blankslate
@@ -430,7 +431,6 @@ irregexp
 irto
 irwriter
 itype
-ivariable
 ixusr
 jbyte
 jclass
@@ -470,6 +470,7 @@ jsbool
 jsboolean
 jsbox
 jsboxed
+jscalled
 jscapture
 jsclass
 jscode
