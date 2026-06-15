@@ -221,9 +221,12 @@ exponentiate
 exprloc
 exsel
 extention
+fadd
 falsey
 fasta
 fastboot
+fcmp
+fdiv
 feblend
 fecolor
 fecolormatrix
@@ -255,6 +258,7 @@ fixnum
 fldr
 fmod
 fmov
+fmul
 fontfaces
 foreignfetch
 fori
@@ -270,6 +274,7 @@ fromiterable
 fsfile
 fsfiles
 fstr
+fsub
 funs
 futureor
 gamepads
