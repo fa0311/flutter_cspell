@@ -213,6 +213,7 @@ enanced
 enclosings
 enctype
 endianity
+endtemplate
 eonw
 eorw
 exhaustivenesses

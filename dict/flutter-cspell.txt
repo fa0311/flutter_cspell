@@ -876,6 +876,7 @@ osdevices
 osenabled
 osengine
 osexecutable
+osfile
 osflutter
 osframework
 osfrom
