@@ -966,7 +966,6 @@ unaliased
 unawaited
 uncacheable
 uncomputed
-unconfigurable
 undefer
 undefineable
 undoable
