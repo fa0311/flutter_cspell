@@ -712,6 +712,7 @@ olist
 oneshot
 onote
 optype
+orbegin
 oreader
 ornw
 orphancy
