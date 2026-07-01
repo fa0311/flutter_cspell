@@ -863,6 +863,7 @@ osapp
 osarchitecture
 osarchitectures
 osarchs
+osarm
 osasset
 osblinking
 osbuild
