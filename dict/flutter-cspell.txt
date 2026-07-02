@@ -554,6 +554,7 @@ iosframework
 iosima
 iosinteractive
 ioslaunch
+iosmin
 iosplugin
 iosruntimes
 iosscroll
@@ -885,6 +886,7 @@ osfuchsia
 oshorizontal
 osmanya
 osmigration
+osmin
 osplatform
 osplugin
 osproject

@@ -2,6 +2,7 @@ applovin
 avfoundation
 beamer
 bidmachine
+blurhash
 camerax
 chartboost
 codegen
@@ -47,9 +48,9 @@ skeletonizer
 slugid
 sqflite
 storekit
-supabase
 timeago
 treeview
+wakelock
 webcrypto
 webdev
 widgetbook
