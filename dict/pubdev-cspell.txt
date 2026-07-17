@@ -2,6 +2,7 @@ applovin
 avfoundation
 beamer
 bidmachine
+blurhash
 camerax
 chartboost
 codegen

@@ -724,6 +724,8 @@ osexecutable
 osexecutables
 osguess
 osid
+osmembers
+osmixin
 osutilities
 osversion
 osymtab
