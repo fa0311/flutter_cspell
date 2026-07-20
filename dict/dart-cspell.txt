@@ -23,6 +23,7 @@ andw
 angletype
 annotatable
 annotatables
+annotatble
 anslysis
 aobject
 aotfile
@@ -266,6 +267,7 @@ fori
 fpreg
 fpregister
 fpregisters
+fpregs
 fpreturn
 fpuregs
 fpvalues
@@ -580,6 +582,7 @@ kythe
 lateables
 layouter
 lcstring
+ldar
 ldpsw
 lengthadjust
 lengthtype
@@ -810,6 +813,7 @@ rsquare
 runtimetype
 rvalue
 safepoint
+safepoints
 sbcs
 sbcsw
 sbcw
@@ -887,6 +891,7 @@ sslparameters
 sslprotocol
 sslsocket
 stitchtype
+stlr
 storei
 stringifier
 stroffsetsptr
