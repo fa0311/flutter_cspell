@@ -744,6 +744,7 @@ masettings
 matangi
 matemasie
 mayek
+mdfind
 mdisplay
 mdns
 meddon
