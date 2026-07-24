@@ -78,7 +78,6 @@ arima
 arimo
 arizonia
 armata
-armeabi
 armv
 arrowshape
 arrowtriangle
@@ -531,7 +530,6 @@ iosad
 iosads
 iosanalyze
 iosapp
-iosarch
 iosarchitecture
 iosarchive
 iosarchs
