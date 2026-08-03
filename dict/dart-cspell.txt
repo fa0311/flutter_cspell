@@ -969,6 +969,7 @@ udata
 uievent
 uleb
 ulist
+umulh
 unalias
 unaliased
 unawaited
