@@ -48,11 +48,11 @@ skeletonizer
 slugid
 sqflite
 storekit
+supabase
 timeago
 treeview
 wakelock
 webcrypto
 webdev
-webrtc
 widgetbook
 wkwebview
