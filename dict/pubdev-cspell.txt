@@ -9,7 +9,6 @@ cronet
 csslib
 cupertino
 dartdoc
-dartx
 dotenv
 dtexchange
 dwds
