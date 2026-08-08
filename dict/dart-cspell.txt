@@ -65,6 +65,7 @@ boolified
 bootstrapper
 bppv
 brelement
+bscertificate
 bslash
 bufferfi
 bufferfv
@@ -875,7 +876,6 @@ spacingtype
 spannable
 specializer
 splayable
-spliterator
 spreadmethod
 srcdoc
 srclang
@@ -932,7 +932,6 @@ sysex
 systrace
 tapp
 tbnz
-tbscertificate
 tearoff
 tearoffs
 terminatable
