@@ -113,6 +113,7 @@ creg
 cronet
 crsel
 csel
+csetm
 csinc
 csinv
 csmagic
