@@ -541,6 +541,7 @@ jsproxy
 jsrange
 jsreg
 jsrequires
+jsreturn
 jsruntime
 jssecond
 jsshared
