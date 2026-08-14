@@ -9,6 +9,7 @@ cronet
 csslib
 cupertino
 dartdoc
+dartx
 dotenv
 dtexchange
 dwds
@@ -33,7 +34,6 @@ mytarget
 pageloader
 pana
 pangle
-pdfview
 pinput
 protoc
 pubmatic
