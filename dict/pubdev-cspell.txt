@@ -34,6 +34,7 @@ mytarget
 pageloader
 pana
 pangle
+petitparser
 pinput
 protoc
 pubmatic
