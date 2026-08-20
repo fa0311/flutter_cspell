@@ -90,12 +90,14 @@ chrono
 cids
 ciez
 cilz
+cinc
 clazz
 cliargument
 clierror
 cloners
 closurize
 closurized
+clrex
 cmdsize
 coarray
 cobject
@@ -113,6 +115,7 @@ creg
 cronet
 crsel
 csel
+cset
 csetm
 csinc
 csinv
@@ -393,6 +396,7 @@ hwasan
 hyield
 iccall
 icdata
+icronet
 idbze
 ideclaration
 ideworkspace
@@ -465,7 +469,6 @@ jlocal
 jmember
 jmembers
 jmethod
-jobject
 jparameter
 jprogram
 jrecord
@@ -579,6 +582,7 @@ kfield
 kfunction
 klass
 klibrary
+kmapped
 kmember
 kprogram
 ktype
@@ -588,6 +592,7 @@ layouter
 lcstring
 ldar
 ldpsw
+ldxr
 lengthadjust
 lengthtype
 lequal
@@ -879,6 +884,7 @@ spacingtype
 spannable
 specializer
 splayable
+spliterator
 spreadmethod
 srcdoc
 srclang
@@ -892,6 +898,8 @@ sslcontext
 sslengine
 sslparameters
 sslprotocol
+sslserver
+sslsession
 sslsocket
 stitchtype
 stlr
@@ -903,6 +911,7 @@ strp
 strsz
 strtab
 strx
+stxr
 stylesheet
 subexpression
 subkind
@@ -1004,6 +1013,7 @@ unwrapper
 upgrader
 urland
 urlcache
+urlconnection
 urlcredential
 urlrequest
 urlresponse
