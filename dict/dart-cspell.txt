@@ -99,6 +99,7 @@ closurize
 closurized
 clrex
 cmdsize
+cneg
 coarray
 cobject
 codedirectory
@@ -647,6 +648,7 @@ movw
 movz
 mprotect
 msan
+msub
 multimap
 multisample
 multiselectable
@@ -834,6 +836,7 @@ scrutinee
 scvtf
 sdata
 sdch
+sdiv
 sectname
 seekable
 seeked
