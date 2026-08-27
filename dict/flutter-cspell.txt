@@ -255,7 +255,6 @@ dartdevc
 dartlang
 dartpad
 darumadrop
-ddcbootstrap
 ddckernel
 ddclibrary
 ddslauncher
@@ -526,7 +525,6 @@ inder
 inika
 inimai
 inknut
-intelli
 iosad
 iosads
 iosanalyze
@@ -585,7 +583,6 @@ jomolhari
 josefin
 jost
 joti
-jplugins
 jskernel
 jsonify
 jsonmessage
@@ -862,7 +859,6 @@ orienta
 osaccessible
 osapp
 osarchitecture
-osarchitectures
 osarchs
 osarm
 osasset
