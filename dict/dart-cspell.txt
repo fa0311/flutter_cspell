@@ -1082,7 +1082,6 @@ wallclock
 watchos
 watchossimulator
 wchar
-webdev
 webgl
 wheretype
 worklet
