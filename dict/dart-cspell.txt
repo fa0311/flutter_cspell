@@ -630,7 +630,6 @@ methoddeclaration
 methodtype
 microtask
 microtasks
-millis
 mlconfig
 mlelement
 mlformatter
@@ -1060,6 +1059,7 @@ vmrepository
 vmservice
 vmsize
 vmstream
+vmtag
 vmtarget
 vmtest
 vmtimeline
