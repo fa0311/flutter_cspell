@@ -678,7 +678,6 @@ noundefs
 nreloc
 nsarray
 nscached
-nscoder
 nscondition
 nsdata
 nsdeprecated
@@ -691,7 +690,6 @@ nsinput
 nsmguard
 nsmutable
 nsoperation
-nsprogress
 nsresolver
 nsstring
 nsurl
