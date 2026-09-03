@@ -9,7 +9,6 @@ cronet
 csslib
 cupertino
 dartdoc
-dartx
 dotenv
 dtexchange
 dwds
@@ -47,7 +46,6 @@ skeletonizer
 slugid
 sqflite
 storekit
-supabase
 timeago
 treeview
 wakelock
