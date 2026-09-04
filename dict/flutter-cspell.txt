@@ -45,9 +45,11 @@ alives
 alkalami
 alkatra
 allerta
+allkin
 allura
 almarai
 almendra
+alyamama
 amarante
 amarna
 amatic
@@ -138,6 +140,7 @@ belleza
 bellota
 bento
 besley
+betania
 bhai
 bhaijaan
 bhaiksuki
@@ -159,6 +162,7 @@ bosa
 bottomhalf
 bottomthird
 bowlby
+bpmf
 braah
 brygada
 btext
@@ -323,6 +327,7 @@ enriqueta
 enterexit
 ephesis
 epunda
+estedad
 ewert
 exclam
 exclamationmark
@@ -450,6 +455,7 @@ guntur
 gupter
 gurajada
 gurmukhi
+gveret
 habibi
 hachi
 haerang
@@ -502,6 +508,7 @@ icudtl
 identifer
 idevicescreenshot
 idevicesyslog
+idiqlat
 idregistry
 idvalue
 illum
@@ -546,6 +553,7 @@ iosemulators
 iosenabled
 iosengine
 iosenvironment
+iosevka
 iosfeature
 iosframework
 iosima
@@ -574,6 +582,7 @@ jaini
 jaldi
 jamjuree
 jaro
+jcree
 jguides
 jian
 jitcrash
@@ -995,6 +1004,7 @@ ramabhadra
 ramaraja
 rambla
 rammetto
+ramsina
 ranga
 rasa
 rashi
@@ -1135,6 +1145,7 @@ steb
 stext
 stix
 streetview
+strichpunkt
 strikethrough
 subdirs
 sublocality
@@ -1261,6 +1272,7 @@ unref
 updock
 urlno
 urlreflects
+utext
 utiidentifier
 uturn
 uyghur
@@ -1328,6 +1340,7 @@ yrsa
 ysabeau
 yuji
 yusei
+yuyu
 zain
 zanabazar
 zcool
@@ -1335,5 +1348,6 @@ zenkaku
 zetta
 zeyada
 zheng
+zihi
 zilla
 znamenny

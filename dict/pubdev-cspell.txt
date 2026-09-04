@@ -22,6 +22,7 @@ geolocator
 imobile
 inmobi
 ironsource
+jnigen
 liftoffmonetize
 maio
 mintegral
@@ -33,6 +34,7 @@ mytarget
 pageloader
 pana
 pangle
+pdfview
 petitparser
 pinput
 protoc
