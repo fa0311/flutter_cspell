@@ -568,6 +568,7 @@ jsunknown
 jsunmodifiable
 jsutil
 jsvalue
+jsvar
 jsvoid
 jswrapped
 jswrapper
