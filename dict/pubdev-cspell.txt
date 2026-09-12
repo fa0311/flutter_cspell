@@ -1,11 +1,13 @@
 applovin
 avfoundation
+beamer
 bidmachine
 camerax
 chartboost
 codegen
 cronet
 csslib
+cupertino
 dartdoc
 dotenv
 dtexchange
@@ -25,6 +27,7 @@ liftoffmonetize
 maio
 mintegral
 mobx
+mocktail
 moloco
 msix
 mytarget
@@ -50,5 +53,6 @@ treeview
 wakelock
 webcrypto
 webdev
+webrtc
 widgetbook
 wkwebview
