@@ -34,7 +34,6 @@ mytarget
 pageloader
 pana
 pangle
-pdfview
 petitparser
 pinput
 protoc

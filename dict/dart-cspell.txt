@@ -46,6 +46,7 @@ atype
 autocapitalize
 autofocus
 autoplay
+avgr
 avstreaming
 backface
 backping
@@ -230,12 +231,19 @@ expando
 exponentiate
 exprloc
 exsel
+extadd
 extention
+extmul
+fabs
 fadd
 falsey
 fasta
 fastboot
 fcmp
+fcvtas
+fcvtms
+fcvtps
+fcvtzs
 fdiv
 feblend
 fecolor
@@ -269,6 +277,7 @@ fldr
 fmod
 fmov
 fmul
+fneg
 fontfaces
 foreignfetch
 fori
@@ -281,9 +290,14 @@ fpuregs
 fpvalues
 fractalnoise
 frament
+frinta
+frintm
+frintp
+frintz
 fromiterable
 fsfile
 fsfiles
+fsqrt
 fstr
 fsub
 funs
@@ -590,6 +604,7 @@ kmember
 kprogram
 ktype
 kythe
+laneselect
 lateables
 layouter
 lcstring
@@ -650,6 +665,7 @@ movz
 mprotect
 msan
 msub
+mulr
 multimap
 multisample
 multiselectable
@@ -664,6 +680,7 @@ nbytes
 nchars
 ncmds
 negs
+nmadd
 nnbd
 nodoc
 noexn
@@ -945,6 +962,7 @@ symtab
 synchronised
 sysex
 systrace
+szero
 tapp
 tbnz
 tearoff
@@ -1027,6 +1045,7 @@ uxtb
 uxth
 uxtw
 uxtx
+uzero
 vaddr
 validatable
 valuee
