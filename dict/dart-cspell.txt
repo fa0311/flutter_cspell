@@ -240,6 +240,7 @@ falsey
 fasta
 fastboot
 fcmp
+fcvt
 fcvtas
 fcvtms
 fcvtps
