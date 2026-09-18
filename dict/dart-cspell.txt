@@ -794,6 +794,7 @@ println
 promotability
 prty
 pubspec
+pubspecs
 punchthrough
 punct
 pvrtc
