@@ -1019,6 +1019,7 @@ uninitialization
 uninstantiated
 unlinkedcall
 unlower
+unminified
 unminify
 unmute
 unobserve
