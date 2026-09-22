@@ -52,5 +52,6 @@ treeview
 wakelock
 webcrypto
 webdev
+webrtc
 widgetbook
 wkwebview
