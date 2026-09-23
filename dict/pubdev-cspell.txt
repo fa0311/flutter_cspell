@@ -31,6 +31,7 @@ mocktail
 moloco
 msix
 mytarget
+octo
 pageloader
 pana
 pangle
@@ -52,6 +53,5 @@ treeview
 wakelock
 webcrypto
 webdev
-webrtc
 widgetbook
 wkwebview
