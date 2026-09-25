@@ -219,7 +219,6 @@ dysymtab
 eacute
 edgemode
 embedder
-enanced
 enclosings
 enctype
 endianity
@@ -749,6 +748,7 @@ oreader
 ornw
 orphancy
 orrw
+osarm
 osection
 osegment
 oserror
@@ -1086,6 +1086,7 @@ vmtag
 vmtarget
 vmtest
 vmtimeline
+vmto
 vmunit
 vmupdate
 vmview
