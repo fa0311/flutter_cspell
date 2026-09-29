@@ -258,8 +258,10 @@ dartdevc
 dartlang
 dartpad
 darumadrop
+ddccanary
 ddckernel
 ddclibrary
+ddcstable
 ddslauncher
 deblur
 deca
