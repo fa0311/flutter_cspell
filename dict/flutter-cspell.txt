@@ -978,6 +978,7 @@ preahvihear
 prebuild
 precompiler
 prelayout
+premultiply
 preroll
 pridi
 printshop

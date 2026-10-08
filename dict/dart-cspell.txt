@@ -945,6 +945,7 @@ suborigin
 subpattern
 subrange
 subsw
+subtools
 subtypable
 subtyping
 subw
