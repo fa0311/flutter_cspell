@@ -241,6 +241,7 @@ countertops
 cousine
 coustard
 coverable
+cpubspec
 cputypes
 creditcard
 creepster
