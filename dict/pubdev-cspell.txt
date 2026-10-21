@@ -44,10 +44,10 @@ riverpod
 routemaster
 rxdart
 scrollables
-sembast
 skeletonizer
 slugid
 sqflite
+storekit
 timeago
 treeview
 wakelock
