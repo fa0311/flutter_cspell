@@ -778,6 +778,7 @@ pathspecs
 pbdescriptor
 pcoffset
 pcoffsets
+pext
 pids
 pltgot
 pltrelsz
