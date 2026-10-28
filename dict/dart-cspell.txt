@@ -272,6 +272,7 @@ finalizable
 finalizer
 finalizers
 fixnum
+fldp
 fldr
 fmod
 fmov
@@ -297,6 +298,7 @@ fromiterable
 fsfile
 fsfiles
 fsqrt
+fstp
 fstr
 fsub
 funs
@@ -1012,6 +1014,7 @@ ulist
 umulh
 unalias
 unaliased
+unaugmented
 unawaited
 uncacheable
 uncomputed
