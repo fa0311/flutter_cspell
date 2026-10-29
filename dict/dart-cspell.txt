@@ -948,6 +948,8 @@ sublist
 suborigin
 subpattern
 subrange
+subshape
+subshapes
 subsw
 subtools
 subtypable
@@ -956,6 +958,7 @@ subw
 succ
 superinterface
 superinterfaces
+supershapes
 supertypes
 supportscodelimit
 supportsexecseg
